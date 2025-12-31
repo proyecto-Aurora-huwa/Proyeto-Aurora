@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="1767144897187_1.jpg" width="200" alt="Logo Proyecto Aurora">
-</p>
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/tu-usuario/Proyecto-Aurora/main/logo.jpg" width="200" alt="Logo Proyecto Aurora">
-
 # 🌅 Proyecto Aurora
 ### *"Un ecosistema de aprendizaje y estabilidad financiera diseñado para comunidades en desarrollo"*
 
