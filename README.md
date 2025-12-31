@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="1767144897187_1.jpg" width="200" alt="Logo Proyecto Aurora">
+</p>
 # 🌟 Proyecto Aurora
 
 > **"Un ecosistema de aprendizaje y estabilidad financiera diseñado para comunidades en desarrollo."**
