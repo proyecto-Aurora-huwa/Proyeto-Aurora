@@ -92,7 +92,36 @@ El ecosistema opera mediante un flujo diseñado para empoderar a la familia, tra
 * **BILLETERA FAMILIAR:** Las unidades se acreditan en una billetera digital bajo la custodia de un representante mayor de edad, asegurando el resguardo del patrimonio del hogar.
 * **ECONOMÍA LOCAL ACTIVA:** Las Huwas acumuladas se utilizan de inmediato en una red de **Establecimientos Aliados**, permitiendo la adquisición de bienes y servicios de manera rápida y segura.
 
----
+### **2. CLÁUSULA DE ESTABILIDAD Y RESERVA (PROYECTO AURORA)**
+
+**1. Garantía de Paridad (1:1):**
+El Proyecto Aurora se comprometerá a que cada **Huwa** emitida tendrá un valor estable equivalente a **1 USD** (un dólar estadounidense). Esta estabilidad será el pilar fundamental para facilitar el comercio y el ahorro seguro de la comunidad venezolana.
+
+**2. El "Cofre" de Respaldo (Reserva en Ethereum):**
+La moneda estará respaldada por un fondo de reserva en **Ethereum (ETH)** una vez que se cuente con el capital inicial en el cofre. Se utilizará un modelo de sobre-colateralización, asegurando que el valor total en la reserva busque ser siempre superior al total de Huwas en circulación para absorber la volatilidad del mercado.
+
+**3. Política de Gestión de Tesorería (Blindaje en Dólares):**
+Para proteger el fondo ante posibles caídas de precio, el proyecto ejecutará conversiones estratégicas:
+* Cuando el Ethereum experimente impulsos al alza, una parte del excedente de valor **se convertirá** a activos estables (USDT/USDC).
+* Este "colchón" de dólares digitales asegurará que los fondos destinados a las becas de formación técnica estén siempre disponibles y protegidos.
+
+**4. Transparencia y Validación:**
+La gestión de este fondo **se realizará** mediante contratos inteligentes y la supervisión del Validador de Campo, asegurando que cada Huwa emitida corresponda estrictamente a un avance real y verificado en el aprendizaje de los participantes.---
+
+### **5. CUMPLIMIENTO Y TRANSPARENCIA: SEGURIDAD DEL FONDO**
+
+Para garantizar el uso honesto y eficiente de los recursos, el **Proyecto Aurora** implementará un sistema de seguridad de doble capa que protegerá el capital de respaldo (Cofre) y agilizará la entrega de incentivos (Caja Chica).
+
+**A. El Cofre (Bóveda de Seguridad Máxima):**
+El grueso de los fondos en Ethereum estará resguardado en una billetera de **Multifirma (Multisig)**. Esto significa que no existirá una única persona que pueda mover el capital de forma unilateral.
+ * Se **requerirá** la aprobación de múltiples llaves digitales privadas para cualquier movimiento mayor.
+* Este mecanismo actuará como un blindaje contra accesos no autorizados y garantizará que el respaldo de la Huwa permanezca intacto.
+
+**B. La Caja Chica (Contrato Inteligente Automático):**
+Para el pago diario a los 150 niños y 300 damas, se utilizará un **Contrato Inteligente** en la red de Arbitrum.
+* El Cofre recargará esta "Caja Chica" periódicamente con los fondos necesarios para el ciclo de aprendizaje.
+* El contrato liberará las Huwas de forma automática e inmediata, pero **únicamente** cuando reciba la validación técnica del tutor encargado.
+*
 
 ## **💰 LIQUIDIDAD Y RESPALDO GLOBAL**
 
