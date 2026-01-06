@@ -92,6 +92,47 @@ El ecosistema opera mediante un flujo diseñado para empoderar a la familia, tra
 * **BILLETERA FAMILIAR:** Las unidades se acreditan en una billetera digital bajo la custodia de un representante mayor de edad, asegurando el resguardo del patrimonio del hogar.
 * **ECONOMÍA LOCAL ACTIVA:** Las Huwas acumuladas se utilizan de inmediato en una red de **Establecimientos Aliados**, permitiendo la adquisición de bienes y servicios de manera rápida y segura.
 
+* # Semillero Aurora Kids
+> *"Cultivando la materia gris de nuestra comunidad"*
+
+El **Semillero Aurora Kids** no es solo una escuela, es un laboratorio de pensamiento lógico y bienestar. Aquí, 150 niños del Estado Sucre inician un viaje de aprendizaje diseñado para despertar su curiosidad científica y fortalecer su inteligencia emocional.
+
+A través de experimentos prácticos, tecnología y meditación, estamos formando a la generación que liderará el mañana con herramientas reales y valores sólidos.
+
+---
+
+## 1. Nuestro Método: Las Oleadas de Aprendizaje
+
+Para garantizar una educación de excelencia, trabajamos con grupos pequeños y atención personalizada:
+
+* **Atención VIP:** Cada tutor tiene a su cargo una matrícula de máximo **15 niños**.
+* **Ciclos Trimestrales:** El aprendizaje se organiza por módulos intensivos de 3 meses, permitiendo que cada niño avance a su propio ritmo antes de dar paso a la siguiente oleada de estudiantes.
+* **Mente y Ciencia:** Cada jornada comienza con 5 minutos de meditación para enfocar la mente, seguida de módulos de lógica y ciencia aplicada.
+
+## 2. Incentivo y Esfuerzo: La Moneda Huwa
+
+En Aurora, el conocimiento tiene valor. Los niños "minan" su propia recompensa a través del sistema de **Minería por Evidencia**.
+
+1.  Al completar un experimento o un reto lógico, el estudiante (con el apoyo de su representante) carga la prueba de su logro en nuestra plataforma.
+2.  Una vez validada la evidencia, se libera un incentivo en nuestra moneda estable **Huwa**, permitiendo que las familias vean el fruto directo del esfuerzo educativo.
+
+---
+
+## 3. Proyección de Incentivos y Presupuesto
+
+A continuación, detallamos la estructura de incentivos para nuestros capacitadores y el beneficio para los niños por módulo (Minería por Aprendizaje):
+
+* **Incentivo al Tutor:** 30 Huwas ($30 USD) mensuales por cada niño atendido.
+* **Minería del Niño:** 5 Huwas ($5 USD) por módulo completado y validado.
+
+### Desglose de Inversión (Fase Piloto)
+
+| Concepto | Detalle de la Meta | Inversión Proyectada (USD) |
+| :--- | :--- | :--- |
+| **Capacitación Académica** | Financiamiento de 150 cupos de formación técnica. Los tutores guían a los niños en lógica y meditación. | $13,500 |
+| **Fondo de Garantía Huwa** | Fondo líquido para respaldar cada moneda emitida por los logros de los niños (Minería por Evidencia). | $9,000 |
+| **TOTAL REQUERIDO** | **Monto necesario para garantizar la estabilidad de la Fase Piloto.** | **$22,500** |
+
 ### **2. CLÁUSULA DE ESTABILIDAD Y RESERVA (PROYECTO AURORA)**
 
 **1. Garantía de Paridad (1:1):**
