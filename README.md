@@ -125,7 +125,7 @@ Una vez consolidado el respaldo de la moneda **Huwa**, se activará la siguiente
 
 # 🤖 Plan de Estudio Integral: Semillero AURORA Kids
 **Área:** Robótica y Programación Creativa.
-**Duración:** 3 meses por oleada (36 sesiones totales).
+**Duración:** 3 meses por oleada (24 sesiones totales).
 
 * # Semillero Aurora Kids
 > *"Cultivando la materia gris de nuestra comunidad"*
@@ -304,16 +304,16 @@ En Aurora, el conocimiento tiene valor. Los niños "minan" su propia recompensa 
 
 A continuación, detallamos la estructura de incentivos para nuestros capacitadores y el beneficio para los niños por módulo (Minería por Aprendizaje):
 
-* **Incentivo al Tutor:** 30 Huwas ($30 USD) mensuales por cada niño atendido.
-* **Minería del Niño:** 5 Huwas ($5 USD) por módulo completado y validado.
 
-### Desglose de Inversión (Fase Piloto)
+| Área de Formación | Cupos | Sesiones / Módulos | Incentivo Alumno (Total HW) | Pago Tutor (Por Alumno) | Inversión Total |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **🤖 Semillero Kids (Robótica)** | 80 | 24 | $120 ($5 x módulo) | $30 | **$12,000** |
+| **📱 Marketing y Publicidad** | 50 | 6 | $30 ($5 x módulo) | $30 | **$3,000** |
+| **🎨 Diseño Gráfico** | 50 | 6 | $30 ($5 x módulo) | $30 | **$3,000** |
+| **🎬 Edición de Video** | 50 | 6 | $30 ($5 x módulo) | $30 | **$3,000** |
+| **📱 Community Manager** | 50 | 6 | $30 ($5 x módulo) | $30 | **$3,000** |
+| **TOTALES GENERALES** | **280** | | | | **$24,000** |
 
-| Concepto | Detalle de la Meta | Inversión Proyectada (USD) |
-| :--- | :--- | :--- |
-| **Capacitación Académica** | Financiamiento de 150 cupos de formación técnica. Los tutores guían a los niños en lógica y meditación. | $13,500 |
-| **Fondo de Garantía Huwa** | Fondo líquido para respaldar cada moneda emitida por los logros de los niños (Minería por Evidencia). | $9,000 |
-| **TOTAL REQUERIDO** | **Monto necesario para garantizar la estabilidad de la Fase Piloto.** | **$22,500** |
 
 ### **2. CLÁUSULA DE ESTABILIDAD Y RESERVA (PROYECTO AURORA)**
 
