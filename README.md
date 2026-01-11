@@ -81,8 +81,8 @@ Para que Aurora sea un proyecto autosuficiente, hemos diseñado un modelo de eco
 El ecosistema opera mediante un flujo diseñado para empoderar a la familia, transformando el estudio en capacidad de compra inmediata a través de nuestra **Plataforma Integral de Gestión**.
 
 ### **1. FORMACIÓN SEGMENTADA Y EVOLUTIVA**
-* **SEMILLERO INFANTIL (5+ AÑOS):** Cursos adaptados pedagógicamente para despertar el pensamiento lógico y técnico desde temprana edad.
-* **CAPACITACIÓN PARA DAMAS Y ADOLESCENTES:** Programas enfocados en habilidades de alta demanda. El propósito es preparar a las usuarias para integrarse al mercado laboral global y generar ingresos reales para el ecosistema.
+* **SEMILLERO INFANTIL (8+ AÑOS):** Cursos adaptados pedagógicamente para despertar el pensamiento lógico y técnico desde temprana edad.
+* **CAPACITACIÓN PARA DAMAS :** Programas enfocados en habilidades de alta demanda. El propósito es preparar a las usuarias para integrarse al mercado laboral global y generar ingresos reales para el ecosistema.
 
 ### **2. MINERÍA POR EVIDENCIA (PRUEBA DE APRENDIZAJE)**
 * **VALIDACIÓN DE PROGRESO:** El usuario debe cargar pruebas tangibles (fotos o videos) que demuestren el avance real en sus tareas.
@@ -103,19 +103,18 @@ Para garantizar la excelencia y evitar el colapso del sistema, cada oleada tendr
 
 **Distribución de cupos por cada Oleada:**
 
-* **Semillero Kids (Niños):** 50 niños por oleada (Hasta completar los 150 proyectados).
-* **Capacitación para Damas:** 120 damas por oleada (Hasta completar los 300 proyectados).
+* **Semillero Kids (Niños):** 36 niños por oleada (Hasta completar los 80 proyectados).
+* **Capacitación para Damas:** 96 damas por oleada (Hasta completar los 200 proyectados).
 
 ### 📋 Especialidades y Metodología
-La distribución de los **300 cupos para damas** se ha planificado según las áreas de mayor demanda en el mercado freelance. Para áreas técnicas críticas, iniciaremos con grupos controlados de **10 participantes** para asegurar el dominio total de la herramienta:
+La distribución de los **200 cupos para damas** se ha planificado según las áreas de mayor demanda en el mercado freelance. Para áreas técnicas críticas, iniciaremos con grupos controlados de **12 participantes** Por tutor, cada curso dispondrá de 2 tutores por oleadas para asegurar el dominio total de la herramienta:
 
-* **Community Manager:** 80 cupos (Iniciando con grupos de 10 en 10).
-* **Creación de Bots y Automatización:** 50 cupos (Iniciando con grupos de 10 en 10).
-* **Marketing y Publicidad:** 60 cupos.
-* **Robótica (Damas):** 60 cupos.
-* **Diseño y Edición:** 50 cupos.
+* **Community Manager:** 50 cupos..
+* **Marketing y Publicidad:** 50 cupos.
+* **Diseño Visual y Branding Comercial:** 50 cupos.
+* **Producción y Edición de Video de Alto Impacto:** 50 cupos.
 
-> **Nota de Seguridad:** Al trabajar con un máximo de **170 participantes activos por oleada** (50 niños y 120 damas), garantizamos que el flujo de verificación de evidencias y la emisión de la moneda **Huwa** sean procesos fluidos, seguros y totalmente auditables.
+> **Nota de Seguridad:** Al trabajar con un máximo de **76 participantes activos por oleada** (36 niños y 96 damas), garantizamos que el flujo de verificación de evidencias y la emisión de la moneda **Huwa** sean procesos fluidos, seguros y totalmente auditables.
 
 # 🛣️ Ruta de Aprendizaje: Proyecto Aurora
 
@@ -130,7 +129,7 @@ Una vez consolidado el respaldo de la moneda **Huwa**, se activará la siguiente
 * # Semillero Aurora Kids
 > *"Cultivando la materia gris de nuestra comunidad"*
 
-El **Semillero Aurora Kids** no es solo una escuela, es un laboratorio de pensamiento lógico y bienestar. Aquí, 150 niños inician un viaje de aprendizaje diseñado para despertar su curiosidad científica y fortalecer su inteligencia emocional.
+El **Semillero Aurora Kids** no es solo una escuela, es un laboratorio de pensamiento lógico y bienestar. Aquí, 80 niños inician un viaje de aprendizaje diseñado para despertar su curiosidad científica y fortalecer su inteligencia emocional.
 
 A través de experimentos prácticos, tecnología y meditación, estamos formando a la generación que liderará el mañana con herramientas reales y valores sólidos.
 
@@ -209,45 +208,73 @@ Capacitar a las participantes en el dominio técnico de las herramientas de Meta
 
 Para garantizar la calidad académica y el compromiso de los participantes, el Proyecto Aurora establece la siguiente tabla de incentivos en **Huwa (HW)**:
 
-* **Incentivo por Estudiante (Minería):** **5 HW** tras la validación de la campaña real del Módulo 6.
-* **Incentivo al Tutor:** **25 HW** por cada participante que complete exitosamente el programa.
+* **Incentivo por Estudiante (Minería):** **5 HW** por del Módulo .
+* **Incentivo al Tutor:** **30 HW** por cada participante que complete exitosamente el mes de estudio.
 
 > *Nota: Al finalizar, cada dama estará lista para integrarse al sistema Freelance, ofreciendo servicios de gestión de anuncios a comercios aliados y clientes internacionales, respaldando así el valor de nuestra moneda.*
 
-# 🎨 Plan de Capacitación: Diseño Visual y Edición de Video
-**Enfoque:** Creación de Contenido de Alto Impacto con Herramientas Accesibles (Móvil y PC).
 
-Este programa capacita a las participantes en el arte de la comunicación visual, permitiéndoles transformar productos y servicios en piezas gráficas y audiovisuales que captan la atención en mercados globales.
+### 🎬 Plan de Capacitación: Producción y Edición de Video de Alto Impacto
+**Enfoque:** Creación de contenido dinámico de corta duración para marcas comerciales.  
+**Duración:** 6 Módulos (1 por semana).
 
----
+#### 🎯 Objetivo General
+Capacitar a las participantes en la planificación, captura y edición de piezas audiovisuales profesionales de alto impacto. El programa se centra en la capacidad de sintetizar mensajes potentes en formatos breves, optimizando la retención de audiencia y la conversión comercial.
 
-### 🎯 Objetivo General
-Dominar las herramientas de diseño y edición necesarias para crear una identidad visual profesional, asegurando que el contenido sea estético, funcional y cumpla con los estándares de calidad del **Efecto Freelance**.
+#### 📚 Estructura del Plan de Estudios (6 Módulos)
 
----
-
-## 📚 Estructura del Plan de Estudios (6 Módulos)
-
-| Módulo | Título | Contenido Clave | Práctica y Objetivo |
+| Módulo | Título | Contenido Clave | Práctica y Objetivo (Minería) |
 | :--- | :--- | :--- | :--- |
-| **1** | **Fundamentos y Composición** | Psicología del color, jerarquía visual y tipografías. Configuración de marca en **Canva**. | **Criterio Estético:** Entender la ciencia detrás de un diseño que funciona y vende. |
-| **2** | **Identidad Comercial** | Creación de logotipos básicos, portadas y plantillas de posts. | **Kit de Marca:** Diseñar la identidad visual para el negocio local seleccionado. |
-| **3** | **Fotografía de Producto** | Iluminación casera, ángulos estratégicos y eliminación de fondos. | **Catálogo Pro:** Transformar fotos de móvil en imágenes de catálogo profesional. |
-| **4** | **Edición de Video Vertical** | Ritmo de edición, transiciones y subtitulado dinámico en **CapCut**. | **Reels/TikTok:** Crear piezas de 15 segundos con fluidez y enganche visual. |
-| **5** | **Audio y Storytelling** | Música sin copyright, locución (IA o propia) y efectos de sonido (SFX). | **Narrativa:** Montar un video promocional que cuente una historia corta y persuasiva. |
-| **6** | **Proyecto Final: El Reel Aurora** | Exportación en alta calidad y optimización para el ecosistema Meta. | **Producción Real:** Crear el video principal para la campaña publicitaria del curso de Marketing. |
+| **1** | **Fundamentos y Guion** | Lenguaje audiovisual, tipos de planos y la estructura del gancho (Hook). | **Guion de 15s:** Redactar la estructura de un video publicitario corto. |
+| **2** | **Captura y Producción** | Iluminación con recursos caseros, estabilidad y encuadre profesional. | **Set de Grabación:** Captura de clips crudos siguiendo el guion previo. |
+| **3** | **Edición Técnica** | Interfaz de edición, cortes precisos (Jump cuts) y organización de clips. | **Montaje Base:** Ensamblar la secuencia lógica del anuncio sin efectos. |
+| **4** | **Ritmo y Sonido** | Sincronización con la música, efectos de sonido (SFX) y limpieza de locución. | **Impacto Sonoro:** Ajustar los cortes al ritmo de una pista musical. |
+| **5** | **Diseño y Textos** | Subtitulado dinámico, overlays, corrección de color y filtros de marca. | **Identidad Visual:** Aplicar textos y colores coherentes con la marca. |
+| **6** | **Proyecto Final: El Reel Aurora** | Exportación en alta calidad (4K/1080p) y optimización para anuncios. | **Anuncio de 15s:** Entrega del video publicitario final de alto impacto. |
 
----
 
 ## 💰 Estructura de Incentivos (Minería Educativa)
 
 El Proyecto Aurora valora la creatividad técnica mediante la entrega de activos digitales basados en el mérito:
 
-* **Incentivo por Estudiante (Minería):** **5 HW** tras la entrega y validación del Reel de Venta final.
-* **Incentivo al Tutor:** **25 HW** por cada participante que complete exitosamente su portafolio de diseño.
+* **Incentivo por Estudiante (Minería):** **5 HW** tras la validacion de ada modulo.
+* **Incentivo al Tutor:** **30 HW** por cada participantepor  que complete exitosamente el mes de estudio.
+ .
+
+> *Nota: Este módulo es el complemento perfecto del curso de Marketing. Juntos, forman a una profesional integral capaz de cobrar tarifas competitivas en el mercado internacional, inyectando liquidez al Cofre 
+
+
+### 🎨 Plan de Capacitación: Diseño Visual y Branding Comercial
+**Enfoque:** Creación de identidad corporativa y piezas gráficas para el mercado global.  
+**Duración:** 6 Módulos (1por semana).
+
+#### 🎯 Objetivo General
+Formar a las participantes en los fundamentos del diseño gráfico profesional, permitiéndoles construir identidades visuales sólidas (branding) y piezas publicitarias estáticas que comuniquen los valores de una marca con claridad y estética profesional.
+
+#### 📚 Estructura del Plan de Estudios (6 Módulos)
+
+| Módulo | Título | Contenido Clave | Práctica y Objetivo (Minería) |
+| :--- | :--- | :--- | :--- |
+| **1** | **Psicología y Color** | Teoría del color, tipografías y el mensaje de las formas. | **Moodboard:** Definir la paleta de colores y estilo de una marca. |
+| **2** | **Arquitectura de Marca** | Creación de logotipos (Isologos), versiones y áreas de protección. | **Logo Base:** Diseñar la identidad gráfica principal de un negocio. |
+| **3** | **Composición y Jerarquía** | Equilibrio visual, uso de espacios blancos y dónde poner el texto. | **Flyer Comercial:** Diseñar una pieza estática que invite a la acción. |
+| **4** | **Tratamiento de Imagen** | Eliminación de fondos, retoque básico y uso de bancos de fotos pro. | **Catálogo:** Crear una imagen de producto limpia y profesional. |
+| **5** | **Diseño para Redes** | Formatos (Post, Story, Portada) y plantillas reutilizables. | **Kit Social Media:** Crear un set de 3 plantillas coherentes para Instagram. |
+| **6** | **Proyecto Final: Manual de Marca** | Presentación de marca, mockups (visualización en objetos) y exportación. | **Brand Kit:** Entrega del manual de identidad visual completo. |
+
+
+## 💰 Estructura de Incentivos (Minería Educativa)
+
+El Proyecto Aurora valora la creatividad técnica mediante la entrega de activos digitales basados en el mérito:
+
+* **Incentivo por Estudiante (Minería):** **5 HW** tras la entrega y validación de cada modulo.
+* **Incentivo al Tutor:** **30 HW** por por cada participante que complete exitosamente el mes de estudio.
+.
 
 > *Nota: Este módulo es el complemento perfecto del curso de Marketing. Juntos, forman a una profesional integral capaz de cobrar tarifas competitivas en el mercado internacional, inyectando liquidez al Cofre de
 >
+> 
+
 > # 📱 Plan de Capacitación: Community Manager Profesional (Freelance)
 **Enfoque:** Gestión de Comunidades, Estrategia Digital y Atención al Cliente Global.
 **Duración:** 6 Semanas (1 módulo por semana).
@@ -274,10 +301,28 @@ Formar gestoras de comunidades capaces de crear, moderar y hacer crecer la prese
 
 ---
 
+
+#### 💰 Estructura de Incentivos (Minería Educativa)
+* **Incentivo por Estudiante (Minería):** **5 HW** tras la validación del cada modulo.
+* **Incentivo al Tutor:** **$30 mensuales por alumna** (incluye feedback creativo y revisión de portafolio).
+
+> **Nota de Impacto:** Las egresadas de este curso serán capaces de dar identidad visual a los comercios aliados del Proyecto Aurora, asegurando que el ecosistema Huwa se vea profesional y confiable ante el público.
+#### 💰 Estructura de Incentivos (Minería Educativa)
+* **Incentivo por Estudiante (Minería):** **5 HW** tras la validación del Anuncio Publicitario de 15 segundos (Módulo 6).
+* **Incentivo al Tutor:** **$30 mensuales por alumna** (incluye supervisión técnica y corrección de piezas).
+
+> **Nota Estratégica:** Este curso está diseñado para trabajar en simbiosis con el de *Marketing y Publicidad*. Las piezas de 15 segundos producidas aquí son el combustible principal para las campañas de anuncios reales.
+
+
+
+
+
+>
+
 ## 💰 Estructura de Incentivos (Minería Educativa)
 
-* **Incentivo por Estudiante (Minería):** **5 HW** tras la entrega y aprobación del proyecto final (Estrategia de 30 días).
-* **Incentivo al Tutor:** **25 HW** por cada participante que complete satisfactoriamente los 6 módulos.
+* **Incentivo por Estudiante (Minería):** **5 HW** tras la validacion de cada modulo .
+* **Incentivo al Tutor:** **30 HW** por cada participante que complete satisfactoriamente los 6 módulos.
 
 > *Nota: Al graduarse, la dama no solo domina las redes de **Huwa**, sino que posee un perfil profesional listo para ser ofertado en plataformas como Upwork o Fiverr, garantizando que el conocimiento se traduzca en ingresos reales.*
 
@@ -299,6 +344,14 @@ En Aurora, el conocimiento tiene valor. Los niños "minan" su propia recompensa 
 2.  Una vez validada la evidencia, se libera un incentivo en nuestra moneda estable **Huwa**, permitiendo que las familias vean el fruto directo del esfuerzo educativo.
 
 ---
+
+### 🚀 De la Visión a la Acción: El Respaldo de la Excelencia
+
+El conocimiento solo se convierte en libertad cuando tiene la estructura necesaria para sostenerse. Los planes de estudio anteriores no son solo guías académicas; son el compromiso de **280 personas** que han decidido transformar su realidad y ser el motor de cambio de su comunidad.
+
+Para que esta "Materia Gris en Movimiento" sea sostenible, el Proyecto Aurora ha blindado su arquitectura financiera. Cada centavo invertido tiene un propósito doble: **honrar la maestría** de nuestros tutores mediante un pago justo y **recompensar el esfuerzo** de nuestros estudiantes a través de la minería por evidencia.
+
+A continuación, se detalla la estructura presupuestaria que hace posible este amanecer tecnológico. Un modelo diseñado bajo estándares de transparencia, eficiencia e impacto real:
 
 ## 3. Proyección de Incentivos y Presupuesto
 
