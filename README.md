@@ -394,7 +394,7 @@ El grueso de los fondos en Ethereum estará resguardado en una billetera de **Mu
 * Este mecanismo actuará como un blindaje contra accesos no autorizados y garantizará que el respaldo de la Huwa permanezca intacto.
 
 **B. La Caja Chica (Contrato Inteligente Automático):**
-Para el pago diario a los 150 niños y 300 damas, se utilizará un **Contrato Inteligente** en la red de Arbitrum.
+Para el pago por a  modulo a los 80 niños y 200 damas, se utilizará un **Contrato Inteligente** en la red de Arbitrum.
 * El Cofre recargará esta "Caja Chica" periódicamente con los fondos necesarios para el ciclo de aprendizaje.
 * El contrato liberará las Huwas de forma automática e inmediata, pero **únicamente** cuando reciba la validación técnica del tutor encargado.
 *
