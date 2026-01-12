@@ -391,22 +391,19 @@ Fondo blindado para imprevistos, herramientas digitales y crecimiento de la plat
 
 ---
 
-### **2. CLÁUSULA DE ESTABILIDAD Y RESERVA (PROYECTO AURORA)**
+ ### 2. CLÁUSULA DE ESTABILIDAD Y RESERVA (PROYECTO AURORA)
 
-**1. Garantía de Paridad (1:1):**
-El Proyecto Aurora se comprometerá a que cada **Huwa** emitida tendrá un valor estable equivalente a **1 USD** (un dólar estadounidense). Esta estabilidad será el pilar fundamental para facilitar el comercio y el ahorro seguro de la comunidad venezolana.
+1. **Garantía de Paridad (1:1):** El Proyecto Aurora se compromete a que cada Huwa emitida tendrá un valor estable equivalente a 1 USD. Esta paridad es innegociable para garantizar el poder adquisitivo de los estudiantes y comerciantes.
 
-**2. El "Cofre" de Respaldo (Reserva en Ethereum):**
-La moneda estará respaldada por un fondo de reserva en **Ethereum (ETH)** una vez que se cuente con el capital inicial en el cofre. Se utilizará un modelo de sobre-colateralización, asegurando que el valor total en la reserva busque ser siempre superior al total de Huwas en circulación para absorber la volatilidad del mercado.
+2. **Blindaje de Capital (Estrategia Anti-Volatilidad):** Para proteger la ejecución del proyecto, una vez recibido el capital de respaldo, el 90% de los fondos destinados a Formación, Incentivos y Nómina se convertirá de inmediato a dólares digitales estables (USDT/USDC). Esta medida asegura que el presupuesto de $34,700 permanezca intacto independientemente de las fluctuaciones del mercado cripto.
 
-**3. Política de Gestión de Tesorería (Blindaje en Dólares):**
-Para proteger el fondo ante posibles caídas de precio, el proyecto ejecutará conversiones estratégicas:
-* Cuando el Ethereum experimente impulsos al alza, una parte del excedente de valor **se convertirá** a activos estables (USDT/USDC).
-* Este "colchón" de dólares digitales asegurará que los fondos destinados a las becas de formación técnica estén siempre disponibles y protegidos.
+3. **Gestión de Reserva Dinámica (Ethereum):** El Proyecto Aurora mantendrá únicamente un máximo del 10% del fondo total (priorizando el Fondo de Contingencia) en Ethereum (ETH). 
+   * **Uso de Excedentes:** Si el valor de este porcentaje en ETH aumenta, los excedentes se convertirán a moneda estable para fortalecer el "Fondo de Reinversión" de la Fase 3.
+   * **Protección de Gastos:** Este fondo en ETH servirá principalmente para cubrir los costos operativos de gas (comisiones de red) y mantener una reserva de crecimiento moderado sin arriesgar el capital operativo crítico.
 
-**4. Transparencia y Validación:**
-La gestión de este fondo **se realizará** mediante contratos inteligentes y la supervisión del Validador de Campo, asegurando que cada Huwa emitida corresponda estrictamente a un avance real y verificado en el aprendizaje de los participantes.---
+4. **Transparencia y Validación:** La gestión de este fondo se realizará mediante contratos inteligentes y supervisión Multisig, asegurando que cada Huwa en circulación esté respaldada por un dólar digital real en la bóveda del proyecto.
 
+ 
 ### **5. CUMPLIMIENTO Y TRANSPARENCIA: SEGURIDAD DEL FONDO**
 
 Para garantizar el uso honesto y eficiente de los recursos, el **Proyecto Aurora** implementará un sistema de seguridad de doble capa que protegerá el capital de respaldo (Cofre) y agilizará la entrega de incentivos (Caja Chica).
