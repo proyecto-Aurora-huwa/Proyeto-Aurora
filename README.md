@@ -130,7 +130,7 @@ Una vez consolidado el respaldo de la moneda **Huwa**, se activará la siguiente
 * # Semillero Aurora Kids
 > *"Cultivando la materia gris de nuestra comunidad"*
 
-El **Semillero Aurora Kids** no es solo una escuela, es un laboratorio de pensamiento lógico y bienestar. Aquí, 80 niños inician un viaje de aprendizaje diseñado para despertar su curiosidad científica y fortalecer su inteligencia emocional.
+El **Semillero Aurora Kids** no es solo una escuela, es un laboratorio de pensamiento lógico y bienestar. Aquí, 80 niños iniciran un viaje de aprendizaje diseñado para despertar su curiosidad científica y fortalecer su inteligencia emocional.
 
 A través de experimentos prácticos, tecnología y meditación, estamos formando a la generación que liderará el mañana con herramientas reales y valores sólidos.
 
@@ -347,9 +347,9 @@ Este presupuesto de **$33,500** garantiza la ejecución total del programa de fo
 ### 1. Inversión en Formación e Incentivos (Proof of Learning)
 Fondo destinado a respaldar el valor de la moneda **Huwa** generada por los estudiantes.
 
-| Programa de Formación | Cupos | Duración | Incentivo Alumno por modulo | Pago Tutor por participante | Total |
+| Programa de Formación | Cupos | Duración | Incentivo Alumno 5$ por modulo | Pago Tutor por participante | Total |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **🤖 Semillero Kids (Robótica)** | 80 | **6 Meses** 24 modulos (2 Olas) | $120 | $30 | $12,000 |
+| **🤖 Semillero Kids (Robótica)** | 80 | **6 Meses** 24 modulos (2 Olas) | $120 cada alumno | $30 | $12,000 |
 | **📱 Especializaciones Técnicas*** | 200 | **3 Meses**  6 modulos| $30 | $30 | $12,000 |
 | **TOTAL FORMACIÓN** | **280** | | | | **$24,000** |
 *\*Incluye: Marketing Digital, Diseño Gráfico, Edición de Video y Community Manager.*
@@ -359,13 +359,13 @@ Fondo destinado a respaldar el valor de la moneda **Huwa** generada por los estu
 ### 2. Estructura Operativa y Talento Humano (Nómina 6 Meses)
 Garantiza la supervisión, auditoría y seguridad del ecosistema durante todo el periodo.
 
-| Cargo | Cantidad | Honorario Mensual | Total (6 Meses) | Función Crítica |
+| Cargo | Cantidad | Honorario mpor  | Total (6 Meses) | Función Crítica |
 | :--- | :---: | :---: | :---: | :--- |
 | **Dirección de Proyecto** | 1 | $500 | $3,000 | Estrategia y Firma Activa 1 |
 | **Administración y Auditoría** | 1 | $350 | $2,100 | Cuentas y Firma Activa 2 |
 | **Tecnología y Webmaster** | 1 | $300 | $1,800 | Soporte Digital y Firma Fría |
-| **Gestión de Alianzas** | 1 | $150 | $900 | Expansión Freelance |
-| **TOTAL OPERATIVO** | **4** | **$1,300** | **$7,800** | |
+| **Gestión de Alianzas** | 1 | $300 | $1800 | Expansión Freelance |
+| **TOTAL OPERATIVO** | **4** | **$1,450** | **$8,700** | |
 
 ---
 
@@ -380,11 +380,11 @@ Fondo blindado para imprevistos, herramientas digitales y crecimiento de la plat
 
 ### 📈 Resumen Consolidado de Inversión
 * **Incentivos y Formación:** $24,000
-* **Equipo Operativo:** $7,800
-* **Fondo de Contingencia:** $1,700
-* **INVERSIÓN TOTAL:** **$33,500**
+* **Equipo Operativo:** $8,700
+* **Fondo de Contingencia:** $2,00
+* **INVERSIÓN TOTAL:** **$34,700*
 
-> **Gobernanza Financiera:** Para la movilización de cualquier partida, **se requerirá** la validación mediante firmas digitales compartidas (Multisig) entre la Dirección y la Administración. Los excedentes generados por la plataforma freelance (Mes 2+) se destinarán a un Fondo de Reinversión para la Fase 2.
+> **Gobernanza Financiera:** Para la movilización de cualquier partida, **se requerirá** la validación mediante firmas digitales compartidas (Multisig) entre la Dirección y la Administración. Los excedentes generados por la plataforma freelance (Mes 2+) se destinarán a un Fondo de Reinversión para la Fase 3.
 
 
 > **Nota de Seguridad:** Para la movilización de fondos de cualquier partida, **se requerirá** la validación mediante firmas digitales compartidas (Multisig) entre la Dirección y la Administración.
