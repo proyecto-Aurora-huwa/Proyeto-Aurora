@@ -345,15 +345,15 @@ A continuación, detallamos la estructura de incentivos para nuestros capacitado
 Este presupuesto de **$33,500** garantiza la ejecución total del programa de formación, el mantenimiento del equipo operativo de alto nivel y la sostenibilidad técnica durante medio año de operaciones.
 
 ### 1. Inversión en Formación e Incentivos (Proof of Learning)
-Fondo destinado a respaldar el valor de la moneda **Huwa** generada por los estudiantes.
+Fondo destinado a respaldar el valor de la moneda Huwa generada por los estudiantes.
 
-| Programa de Formación | Cupos | Duración | Incentivo Alumno 5$ por modulo | Pago Tutor por participante | Total |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| **🤖 Semillero Kids (Robótica)** | 80 | **6 Meses** 24 modulos (2 Olas) | $120 cada alumno | $30 | $12,000 |
-| **📱 Especializaciones Técnicas*** | 200 | **3 Meses**  6 modulos| $30 | $30 | $12,000 |
-| **TOTAL FORMACIÓN** | **280** | | | | **$24,000** |
+| Programa de Formación | Cupos | Duración | Incentivo Alumno ($5 por módulo) | **Monto Total Incentivo Alumno** | Pago Tutor por participante | **Pago Total de este Curso** | Total |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 🤖 **Semillero Kids (Robótica)** | 80 | 6 Meses (2 Olas) | $120 cada alumno | **$9,600** | $30 | **$2,400** | $12,000 |
+| 📱 **Especializaciones Técnicas*** | 200 | 3 Meses (6 módulos) | $30 cada alumna | **$6,000** | $30 | **$6,000** | $12,000 |
+| **TOTAL FORMACIÓN** | **280** | | | **$15,600** | | **$8,400** | **$24,000** |
+
 *\*Incluye: Marketing Digital, Diseño Gráfico, Edición de Video y Community Manager.*
-
 ---
 
 ### 2. Estructura Operativa y Talento Humano (Nómina 6 Meses)
