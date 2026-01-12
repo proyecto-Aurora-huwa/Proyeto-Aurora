@@ -374,7 +374,7 @@ Fondo blindado para imprevistos, herramientas digitales y crecimiento de la plat
 
 | Concepto | Inversión Total (6 Meses) | Mensual Promedio | Uso Destinado |
 | :--- | :---: | :---: | :--- |
-| **Fondo de Contingencia** | **$1,700** | $283.33 | Marketing, Comisiones, Hosting y Licencias. |
+| **Fondo de Contingencia** | **$2,000** | $333.33 | Marketing, Comisiones, Hosting y Licencias. |
 
 ---
 
