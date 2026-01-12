@@ -96,7 +96,7 @@ El ecosistema opera mediante un flujo diseñado para empoderar a la familia, tra
 
 En el **Proyecto Aurora**, creemos fielmente que el conocimiento es la base de la liberación de las comunidades en desarrollo. Por ello, **queremos brindar** herramientas que permitan el desarrollo equilibrado de niños, adolescentes y damas, conectando el aprendizaje con oportunidades económicas reales.
 
-**Queremos dar inicio** a esta visión con una meta total de **450 cupos**, los cuales se activarán de manera progresiva mediante un sistema de **oleadas estratégicas**.
+**Queremos dar inicio** a esta visión con una meta total de **280 cupos**, los cuales se activarán de manera progresiva mediante un sistema de **oleadas estratégicas**.
 
 ### 🔄 Dinámica de Ejecución por Oleadas
 Para garantizar la excelencia y evitar el colapso del sistema, cada oleada tendrá una pausa de un mes o mes y medio. Esto nos permitiría realizar ajustes técnicos y asegurar que cada grupo reciba atención de alta calidad.
@@ -109,6 +109,7 @@ Para garantizar la excelencia y evitar el colapso del sistema, cada oleada tendr
 ### 📋 Especialidades y Metodología
 La distribución de los **200 cupos para damas** se ha planificado según las áreas de mayor demanda en el mercado freelance. Para áreas técnicas críticas, iniciaremos con grupos controlados de **12 participantes** Por tutor, cada curso dispondrá de 2 tutores por oleadas para asegurar el dominio total de la herramienta:
 
+* **Curso de robótica para niños 80 cupos duracion 3 meses cada oleada:** 
 * **Community Manager:** 50 cupos..
 * **Marketing y Publicidad:** 50 cupos.
 * **Diseño Visual y Branding Comercial:** 50 cupos.
@@ -298,25 +299,7 @@ Formar gestoras de comunidades capaces de crear, moderar y hacer crecer la prese
 | **4** | **Dominio de Plataformas** | Instagram, Facebook, TikTok y gestión de canales en Telegram/WhatsApp Business. | **Gestión Técnica:** Uso profesional de perfiles comerciales y herramientas de soporte. |
 | **5** | **Gestión de Comunidad y Crisis** | Moderación de comentarios, manejo de críticas y protocolos de respuesta rápida. | **Fidelización:** Saber calmar crisis y dar soluciones efectivas con empatía y claridad. |
 | **6** | **Minería Educativa y Monetización** | Cómo reportar resultados (KPIs), buscar clientes internacionales y facturar servicios. | **Motor Económico:** Atraer comercios aliados al ecosistema y cerrar contratos externos. |
-
 ---
-
-
-#### 💰 Estructura de Incentivos (Minería Educativa)
-* **Incentivo por Estudiante (Minería):** **5 HW** tras la validación del cada modulo.
-* **Incentivo al Tutor:** **$30 mensuales por alumna** (incluye feedback creativo y revisión de portafolio).
-
-> **Nota de Impacto:** Las egresadas de este curso serán capaces de dar identidad visual a los comercios aliados del Proyecto Aurora, asegurando que el ecosistema Huwa se vea profesional y confiable ante el público.
-#### 💰 Estructura de Incentivos (Minería Educativa)
-* **Incentivo por Estudiante (Minería):** **5 HW** tras la validación del Anuncio Publicitario de 15 segundos (Módulo 6).
-* **Incentivo al Tutor:** **$30 mensuales por alumna** (incluye supervisión técnica y corrección de piezas).
-
-> **Nota Estratégica:** Este curso está diseñado para trabajar en simbiosis con el de *Marketing y Publicidad*. Las piezas de 15 segundos producidas aquí son el combustible principal para las campañas de anuncios reales.
-
-
-
-
-
 >
 
 ## 💰 Estructura de Incentivos (Minería Educativa)
@@ -357,16 +340,56 @@ A continuación, se detalla la estructura presupuestaria que hace posible este a
 
 A continuación, detallamos la estructura de incentivos para nuestros capacitadores y el beneficio para los niños por módulo (Minería por Aprendizaje):
 
+## 📊 Presupuesto Maestro: Proyecto Aurora (Fase 1 - 6 Meses)
 
-| Área de Formación | Cupos | Sesiones / Módulos | Incentivo Alumno (Total HW) | Pago Tutor (Por Alumno) | Inversión Total |
+Este presupuesto de **$33,500** garantiza la ejecución total del programa de formación, el mantenimiento del equipo operativo de alto nivel y la sostenibilidad técnica durante medio año de operaciones.
+
+### 1. Inversión en Formación e Incentivos (Proof of Learning)
+Fondo destinado a respaldar el valor de la moneda **Huwa** generada por los estudiantes.
+
+| Programa de Formación | Cupos | Duración | Incentivo Alumno por modulo | Pago Tutor por participante | Total |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **🤖 Semillero Kids (Robótica)** | 80 | 24 | $120 ($5 x módulo) | $30 | **$12,000** |
-| **📱 Marketing y Publicidad** | 50 | 6 | $30 ($5 x módulo) | $30 | **$3,000** |
-| **🎨 Diseño Gráfico** | 50 | 6 | $30 ($5 x módulo) | $30 | **$3,000** |
-| **🎬 Edición de Video** | 50 | 6 | $30 ($5 x módulo) | $30 | **$3,000** |
-| **📱 Community Manager** | 50 | 6 | $30 ($5 x módulo) | $30 | **$3,000** |
-| **TOTALES GENERALES** | **280** | | | | **$24,000** |
+| **🤖 Semillero Kids (Robótica)** | 80 | **6 Meses** 24 modulos (2 Olas) | $120 | $30 | $12,000 |
+| **📱 Especializaciones Técnicas*** | 200 | **3 Meses**  6 modulos| $30 | $30 | $12,000 |
+| **TOTAL FORMACIÓN** | **280** | | | | **$24,000** |
+*\*Incluye: Marketing Digital, Diseño Gráfico, Edición de Video y Community Manager.*
 
+---
+
+### 2. Estructura Operativa y Talento Humano (Nómina 6 Meses)
+Garantiza la supervisión, auditoría y seguridad del ecosistema durante todo el periodo.
+
+| Cargo | Cantidad | Honorario Mensual | Total (6 Meses) | Función Crítica |
+| :--- | :---: | :---: | :---: | :--- |
+| **Dirección de Proyecto** | 1 | $500 | $3,000 | Estrategia y Firma Activa 1 |
+| **Administración y Auditoría** | 1 | $350 | $2,100 | Cuentas y Firma Activa 2 |
+| **Tecnología y Webmaster** | 1 | $300 | $1,800 | Soporte Digital y Firma Fría |
+| **Gestión de Alianzas** | 1 | $150 | $900 | Expansión Freelance |
+| **TOTAL OPERATIVO** | **4** | **$1,300** | **$7,800** | |
+
+---
+
+### 3. Fondo de Contingencia y Soporte (Operaciones)
+Fondo blindado para imprevistos, herramientas digitales y crecimiento de la plataforma.
+
+| Concepto | Inversión Total (6 Meses) | Mensual Promedio | Uso Destinado |
+| :--- | :---: | :---: | :--- |
+| **Fondo de Contingencia** | **$1,700** | $283.33 | Marketing, Comisiones, Hosting y Licencias. |
+
+---
+
+### 📈 Resumen Consolidado de Inversión
+* **Incentivos y Formación:** $24,000
+* **Equipo Operativo:** $7,800
+* **Fondo de Contingencia:** $1,700
+* **INVERSIÓN TOTAL:** **$33,500**
+
+> **Gobernanza Financiera:** Para la movilización de cualquier partida, **se requerirá** la validación mediante firmas digitales compartidas (Multisig) entre la Dirección y la Administración. Los excedentes generados por la plataforma freelance (Mes 2+) se destinarán a un Fondo de Reinversión para la Fase 2.
+
+
+> **Nota de Seguridad:** Para la movilización de fondos de cualquier partida, **se requerirá** la validación mediante firmas digitales compartidas (Multisig) entre la Dirección y la Administración.
+
+---
 
 ### **2. CLÁUSULA DE ESTABILIDAD Y RESERVA (PROYECTO AURORA)**
 
