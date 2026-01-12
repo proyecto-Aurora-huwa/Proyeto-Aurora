@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="logo-huwa.png" width="300" alt="Logo Proyecto Aurora">
+</p>
+
+<h1 align="center">PROYECTO AURORA</h1>
+
+<p align="center">
+  <strong>"Un ecosistema de aprendizaje y estabilidad financiera diseñado para comunidades en desarrollo"</strong>
+</p>
+
+---
+
 # 🌅 PROYECTO AURORA
 ### *"Un ecosistema de aprendizaje y estabilidad financiera diseñado para comunidades en desarrollo"*
 
