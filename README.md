@@ -119,15 +119,16 @@ Para garantizar la excelencia y evitar el colapso del sistema, cada oleada tendr
 * **Capacitación para Damas:** 96 damas por oleada (Hasta completar los 200 proyectados).
 
 ### 📋 Especialidades y Metodología
-La distribución de los **200 cupos para damas** se ha planificado según las áreas de mayor demanda en el mercado freelance. Para áreas técnicas críticas, iniciaremos con grupos controlados de **12 participantes** Por tutor, cada curso dispondrá de 2 tutores por oleadas para asegurar el dominio total de la herramienta:
+La distribución de los **230 cupos para damas** se ha planificado según las áreas de mayor demanda en el mercado freelance. Para áreas técnicas críticas, iniciaremos con grupos controlados de **12 participantes** Por tutor, cada curso dispondrá de 2 a 3 tutores por oleadas para asegurar el dominio total de la herramienta:
 
-* **Curso de robótica para niños 80 cupos duracion 3 meses cada oleada:** 
+* **Curso de robótica para niños 80 cupos duracion 3 meses cada oleada:**
+* **Curso de robótica para damas (formadoras) 30 cupos duracion 3 meses cada oleada:**
 * **Community Manager:** 50 cupos..
 * **Marketing y Publicidad:** 50 cupos.
 * **Diseño Visual y Branding Comercial:** 50 cupos.
 * **Producción y Edición de Video de Alto Impacto:** 50 cupos.
 
-> **Nota de Seguridad:** Al trabajar con un máximo de **76 participantes activos por oleada** (36 niños y 96 damas), garantizamos que el flujo de verificación de evidencias y la emisión de la moneda **Huwa** sean procesos fluidos, seguros y totalmente auditables.
+> **Nota de Seguridad:** Al trabajar con un máximo de **132 participantes activos por oleada** (36 niños y 96 damas), garantizamos que el flujo de verificación de evidencias y la emisión de la moneda **Huwa** sean procesos fluidos, seguros y totalmente auditables.
 
 # 🛣️ Ruta de Aprendizaje: Proyecto Aurora
 
@@ -188,7 +189,7 @@ Como pilar fundamental del aprendizaje en el Semillero Aurora, cada jornada de r
 ## 💰 Estructura de Incentivos (Minería Infantil)
 
 * **Minería del Niño:** **5 HW** por cada gran reto validado (Proyecto de Nivel).
-* **Incentivo al Tutor:** **30 HW** mensuales por cada niño atendido (máximo 15 niños por tutor para garantizar excelencia VIP).
+* **Incentivo al Tutor:** **30 HW** mensuales por cada niño atendido (máximo de 12 a 15 niños por tutor para garantizar excelencia VIP).
 
 > *Nota: Al finalizar este ciclo, el niño no solo habrá creado tecnología, sino que habrá comprendido que su conocimiento es un activo valioso capaz de generar bienestar para su familia.*
 >
@@ -327,7 +328,7 @@ Formar gestoras de comunidades capaces de crear, moderar y hacer crecer la prese
 
 Para garantizar una educación de excelencia, trabajamos con grupos pequeños y atención personalizada:
 
-* **Atención VIP:** Cada tutor tiene a su cargo una matrícula de máximo **15 niños**.
+* **Atención VIP:** Cada tutor tiene a su cargo una matrícula de máximo **de 12 a 15 niños**.
 * **Ciclos Trimestrales:** El aprendizaje se organiza por módulos intensivos de 3 meses, permitiendo que cada niño avance a su propio ritmo antes de dar paso a la siguiente oleada de estudiantes.
 * **Mente y Ciencia:** Cada jornada comienza con 5 minutos de meditación para enfocar la mente, seguida de módulos de lógica y ciencia aplicada.
 
@@ -354,19 +355,26 @@ A continuación, detallamos la estructura de incentivos para nuestros capacitado
 
 ## 📊 Presupuesto Maestro: Proyecto Aurora (Fase 1 - 6 Meses)
 
-Este presupuesto de **$33,500** garantiza la ejecución total del programa de formación, el mantenimiento del equipo operativo de alto nivel y la sostenibilidad técnica durante medio año de operaciones.
+Este presupuesto de **$40,200** garantiza la ejecución total del programa de formación, el mantenimiento del equipo operativo de alto nivel y la sostenibilidad técnica durante medio año de operaciones.
 
 ### 1. Inversión en Formación e Incentivos (Proof of Learning)
-Fondo destinado a respaldar el valor de la moneda Huwa generada por los estudiantes.
+Fondo destinado a respaldar el valor de la moneda **Huwa** generada por los participantes y el sostenimiento de la alianza pedagógica institucional.
 
-| Programa de Formación | Cupos | Duración | Incentivo Alumno ($5 por módulo) | **Monto Total Incentivo Alumno** | Pago Tutor por participante | **Pago Total de este Curso** | Total |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 🤖 **Semillero Kids (Robótica)** | 80 | 6 Meses (2 Olas) | $120 cada alumno | **$9,600** | $30 | **$2,400** | $12,000 |
-| 📱 **Especializaciones Técnicas*** | 200 | 3 Meses (6 módulos) | $30 cada alumna | **$6,000** | $30 | **$6,000** | $12,000 |
-| **TOTAL FORMACIÓN** | **280** | | | **$15,600** | | **$8,400** | **$24,000** |
+| Programa de Formación | Cupos | Duración / Módulos | Incentivo Alumno ($5 x módulo) | **Total Incentivo (Huwa)** | Pago Tutor (por participante) | **Total Pago Tutores** | **Alianza Academia Robótica Vzla** | **Total por Curso** |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 🤖 **Semillero Kids** | 80 | 6 Meses (24 mod.) | $120 | **$9,600** | $30 | **$2,400** | $700 | **$12,700** |
+| 🤖 **Robótica Damas** | 30 | 6 Meses (24 mod.) | $120 | **$3,600** | $30 | **$900** | $300 | **$4,800** |
+| 📱 **Especializaciones*** | 200 | 3 Meses (6 mod.) | $30 | **$6,000** | $30 | **$6,000** | $0 | **$12,000** |
+| **TOTALES** | **310** | | | **$19,200** | | **$9,300** | **$1,000** | **$29,500** |
 
-*\*Incluye: Marketing Digital, Diseño Gráfico, Edición de Video y Community Manager.*
+*\*Incluye:Robotica kisd,robotica formando instrutoras, Marketing Digital, Diseño Gráfico, Edición de Video y Community Manager.*
+
 ---
+
+**Notas de Gestión:**
+* El respaldo líquido de la moneda Huwa ($19,200) se libera de forma progresiva contra la aprobación de módulos (Proof of Learning).
+* Para la ejecución de estos fondos y la validación de pagos institucionales, **se requerirá** la aprobación mediante el sistema de multirriesgo de llaves del proyecto.
+*
 
 ### 2. Estructura Operativa y Talento Humano (Nómina 6 Meses)
 Garantiza la supervisión, auditoría y seguridad del ecosistema durante todo el periodo.
@@ -391,10 +399,10 @@ Fondo blindado para imprevistos, herramientas digitales y crecimiento de la plat
 ---
 
 ### 📈 Resumen Consolidado de Inversión
-* **Incentivos y Formación:** $24,000
+* **Incentivos y Formación:** $29,500
 * **Equipo Operativo:** $8,700
-* **Fondo de Contingencia:** $2,00
-* **INVERSIÓN TOTAL:** **$34,700*
+* **Fondo de Contingencia:** $2,000
+* **INVERSIÓN TOTAL:** **$40,200*
 
 > **Gobernanza Financiera:** Para la movilización de cualquier partida, **se requerirá** la validación mediante firmas digitales compartidas (Multisig) entre la Dirección y la Administración. Los excedentes generados por la plataforma freelance (Mes 2+) se destinarán a un Fondo de Reinversión para la Fase 3.
 
@@ -407,7 +415,7 @@ Fondo blindado para imprevistos, herramientas digitales y crecimiento de la plat
 
 1. **Garantía de Paridad (1:1):** El Proyecto Aurora se compromete a que cada Huwa emitida tendrá un valor estable equivalente a 1 USD. Esta paridad es innegociable para garantizar el poder adquisitivo de los estudiantes y comerciantes.
 
-2. **Blindaje de Capital (Estrategia Anti-Volatilidad):** Para proteger la ejecución del proyecto, una vez recibido el capital de respaldo, el 90% de los fondos destinados a Formación, Incentivos y Nómina se convertirá de inmediato a dólares digitales estables (USDT/USDC). Esta medida asegura que el presupuesto de $34,700 permanezca intacto independientemente de las fluctuaciones del mercado cripto.
+2. **Blindaje de Capital (Estrategia Anti-Volatilidad):** Para proteger la ejecución del proyecto, una vez recibido el capital de respaldo, el 90% de los fondos destinados a Formación, Incentivos y Nómina se convertirá de inmediato a dólares digitales estables (USDT/USDC). Esta medida asegura que el presupuesto de $40,200 permanezca intacto independientemente de las fluctuaciones del mercado cripto.
 
 3. **Gestión de Reserva Dinámica (Ethereum):** El Proyecto Aurora mantendrá únicamente un máximo del 10% del fondo total (priorizando el Fondo de Contingencia) en Ethereum (ETH). 
    * **Uso de Excedentes:** Si el valor de este porcentaje en ETH aumenta, los excedentes se convertirán a moneda estable para fortalecer el "Fondo de Reinversión" de la Fase 3.
