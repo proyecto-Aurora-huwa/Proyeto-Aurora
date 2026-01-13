@@ -381,9 +381,9 @@ Garantiza la supervisión, auditoría y seguridad del ecosistema durante todo el
 
 | Cargo | Cantidad | Honorario mpor  | Total (6 Meses) | Función Crítica |
 | :--- | :---: | :---: | :---: | :--- |
-| **Dirección de Proyecto** | 1 | $500 | $3,000 | Estrategia y Firma Activa 1 |
+| **Dirección de Proyecto** | 1 | $500 | $3,000 | Estrategia y Firma Activa 1 y fira fria |
 | **Administración y Auditoría** | 1 | $350 | $2,100 | Cuentas y Firma Activa 2 |
-| **Tecnología y Webmaster** | 1 | $300 | $1,800 | Soporte Digital y Firma Fría |
+| **Tecnología y Webmaster** | 1 | $300 | $1,800 | Soporte Digital |
 | **Gestión de Alianzas** | 1 | $300 | $1800 | Expansión Freelance |
 | **TOTAL OPERATIVO** | **4** | **$1,450** | **$8,700** | |
 
@@ -394,15 +394,15 @@ Fondo blindado para imprevistos, herramientas digitales y crecimiento de la plat
 
 | Concepto | Inversión Total (6 Meses) | Mensual Promedio | Uso Destinado |
 | :--- | :---: | :---: | :--- |
-| **Fondo de Contingencia** | **$2,000** | $333.33 | Marketing, Comisiones, Hosting y Licencias. |
+| **Fondo de Contingencia** | **$3,000** | $333.33 | Marketing, Comisiones, Hosting y Licencias. |
 
 ---
 
 ### 📈 Resumen Consolidado de Inversión
 * **Incentivos y Formación:** $29,500
 * **Equipo Operativo:** $8,700
-* **Fondo de Contingencia:** $2,000
-* **INVERSIÓN TOTAL:** **$40,200*
+* **Fondo de Contingencia:** $3,000
+* **INVERSIÓN TOTAL:** **$41,200*
 
 > **Gobernanza Financiera:** Para la movilización de cualquier partida, **se requerirá** la validación mediante firmas digitales compartidas (Multisig) entre la Dirección y la Administración. Los excedentes generados por la plataforma freelance (Mes 2+) se destinarán a un Fondo de Reinversión para la Fase 3.
 
