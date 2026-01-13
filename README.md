@@ -388,13 +388,21 @@ Garantiza la supervisión, auditoría y seguridad del ecosistema durante todo el
 | **TOTAL OPERATIVO** | **4** | **$1,450** | **$8,700** | |
 
 ---
+### 3. Gestión de Reservas y Fondo de Contingencia (7.3% del Capital)
 
-### 3. Fondo de Contingencia y Soporte (Operaciones)
-Fondo blindado para imprevistos, herramientas digitales y crecimiento de la plataforma.
+Para garantizar la estabilidad del **Proyecto Aurora** y la moneda **Huwa**, se establece una estrategia de resguardo híbrida. Mientras que el **92.7% ($38,200)** permanece blindado en dólares estables (USDT/USDC) para nómina e incentivos, el **7.3% ($3,000)** se gestionará en Ethereum (ETH) bajo el siguiente desglose:
 
-| Concepto | Inversión Total (6 Meses) | Mensual Promedio | Uso Destinado |
-| :--- | :---: | :---: | :--- |
-| **Fondo de Contingencia** | **$3,000** | $333.33 | Marketing, Comisiones, Hosting y Licencias. |
+| Sub-Concepto | Monto | Activo | Propósito Estratégico |
+| :--- | :--- | :--- | :--- |
+| **Soporte Operacional** | $2,000 | ETH | Pago de comisiones de red (gas fees) y emergencias técnicas. |
+| **Resguardo de Escalabilidad** | $1,000 | ETH | **Reserva de oportunidad** para capitalizar revalorizaciones y financiar expansión futura. |
+
+#### Protocolo de Seguridad y Custodia
+* **Firma Fría (Cold Wallet):** Este fondo total de $3,000 estará resguardado Al ser un activo volátil con fines de resguardo y soporte, "se requerirá" la validación física de la Directora del proyeto para cualquier movimiento de esta cuenta.
+* **Inyección de Capital:** Se mantiene abierta la posibilidad de que inversionistas externos aporten exclusivamente a la sección de **Resguardo de Escalabilidad**, permitiendo que el proyecto crezca orgánicamente con el mercado sin arriesgar el capital operativo de formación.
+
+---
+*Nota: Todo excedente generado por la revalorización del ETH en la sección de resguardo será auditado y destinado a la compra de infraestructura (Tablets/Equipos) para el semillero de aprendizaje en Venezuela.*
 
 ---
 
@@ -404,6 +412,27 @@ Fondo blindado para imprevistos, herramientas digitales y crecimiento de la plat
 * **Fondo de Contingencia:** $3,000
 * **INVERSIÓN TOTAL:** **$41,200*
 
+
+### 3. ESTRUCTURA OPERATIVA Y BLINDAJE FINANCIERO
+
+Para garantizar que la visión del **Proyecto Aurora** sea sostenible, el presupuesto total de **$41,200** se gestiona bajo un sistema estricto que elimina la redundancia y maximiza la seguridad.
+
+#### A. Distribución Estratégica del Capital
+El capital se divide para asegurar que los compromisos con tutores y alumnos se cumplan sin importar la volatilidad del mercado:
+
+* **Fondo de Estabilidad (92.7% - $38,200):** Resguardado en dólares digitales (USDT/USDC). Este monto es intocable y garantiza 6 meses de nómina ($8,700) e incentivos de formación.
+* **Fondo de Operación y Resguardo (7.3% - $3,000):** Resguardado en Ethereum (ETH).
+    * *$2,000:* Destinados a soporte operacional y comisiones de red (gas fees).
+    * *$1,000:* **Resguardo de Oportunidad** para capitalizar el crecimiento del mercado.
+
+#### B. Protocolo de Autorización y Custodia (Multisig)
+La transparencia es el pilar de la moneda **Huwa**. Por ello, se establece un único protocolo de acceso a los fondos:
+
+1. **Operatividad:** Se requiere la validación compartida (Multisig) entre la Administración y la Dirección para los pagos mensuales.
+2. **Máxima Seguridad:** El grueso del capital y el resguardo de oportunidad están protegidos en una **Firma Fría (Cold Wallet)** custodiada físicamente por la Dirección. **Se requerirá** la validación presencial de la Directora para cualquier movimiento extraordinario.
+
+---
+*Este blindaje asegura que el 100% de los incentivos prometidos a las damas y niños del proyecto estén siempre disponibles y protegidos.*
 > **Gobernanza Financiera:** Para la movilización de cualquier partida, **se requerirá** la validación mediante firmas digitales compartidas (Multisig) entre la Dirección y la Administración. Los excedentes generados por la plataforma freelance (Mes 2+) se destinarán a un Fondo de Reinversión para la Fase 3.
 
 
@@ -415,30 +444,15 @@ Fondo blindado para imprevistos, herramientas digitales y crecimiento de la plat
 
 1. **Garantía de Paridad (1:1):** El Proyecto Aurora se compromete a que cada Huwa emitida tendrá un valor estable equivalente a 1 USD. Esta paridad es innegociable para garantizar el poder adquisitivo de los estudiantes y comerciantes.
 
-2. **Blindaje de Capital (Estrategia Anti-Volatilidad):** Para proteger la ejecución del proyecto, una vez recibido el capital de respaldo, el 90% de los fondos destinados a Formación, Incentivos y Nómina se convertirá de inmediato a dólares digitales estables (USDT/USDC). Esta medida asegura que el presupuesto de $40,200 permanezca intacto independientemente de las fluctuaciones del mercado cripto.
 
-3. **Gestión de Reserva Dinámica (Ethereum):** El Proyecto Aurora mantendrá únicamente un máximo del 10% del fondo total (priorizando el Fondo de Contingencia) en Ethereum (ETH). 
+2. **Gestión de Reserva Dinámica (Ethereum):** El Proyecto Aurora mantendrá únicamente un máximo del 7% del fondo total (priorizando el Fondo de Contingencia y fondo de resguardo ) en Ethereum (ETH). 
    * **Uso de Excedentes:** Si el valor de este porcentaje en ETH aumenta, los excedentes se convertirán a moneda estable para fortalecer el "Fondo de Reinversión" de la Fase 3.
    * **Protección de Gastos:** Este fondo en ETH servirá principalmente para cubrir los costos operativos de gas (comisiones de red) y mantener una reserva de crecimiento moderado sin arriesgar el capital operativo crítico.
 
-4. **Transparencia y Validación:** La gestión de este fondo se realizará mediante contratos inteligentes y supervisión Multisig, asegurando que cada Huwa en circulación esté respaldada por un dólar digital real en la bóveda del proyecto.
+3. **Transparencia y Validación:** La gestión de este fondo se realizará mediante contratos inteligentes y supervisión Multisig, asegurando que cada Huwa en circulación esté respaldada por un dólar digital real en la bóveda del proyecto.
 
  
-### **5. CUMPLIMIENTO Y TRANSPARENCIA: SEGURIDAD DEL FONDO**
-
-Para garantizar el uso honesto y eficiente de los recursos, el **Proyecto Aurora** implementará un sistema de seguridad de doble capa que protegerá el capital de respaldo (Cofre) y agilizará la entrega de incentivos (Caja Chica).
-
-**A. El Cofre (Bóveda de Seguridad Máxima):**
-El grueso de los fondos en Ethereum estará resguardado en una billetera de **Multifirma (Multisig)**. Esto significa que no existirá una única persona que pueda mover el capital de forma unilateral.
- * Se **requerirá** la aprobación de múltiples llaves digitales privadas para cualquier movimiento mayor.
-* Este mecanismo actuará como un blindaje contra accesos no autorizados y garantizará que el respaldo de la Huwa permanezca intacto.
-
-**B. La Caja Chica (Contrato Inteligente Automático):**
-Para el pago por a  modulo a los 80 niños y 200 damas, se utilizará un **Contrato Inteligente** en la red de Arbitrum.
-* El Cofre recargará esta "Caja Chica" periódicamente con los fondos necesarios para el ciclo de aprendizaje.
-* El contrato liberará las Huwas de forma automática e inmediata, pero **únicamente** cuando reciba la validación técnica del tutor encargado.
-*
-
+### 
 ## **💰 LIQUIDIDAD Y RESPALDO GLOBAL**
 
 Garantizamos que el valor generado localmente se conecte con las finanzas internacionales, brindando seguridad total tanto al usuario como al comerciante.
