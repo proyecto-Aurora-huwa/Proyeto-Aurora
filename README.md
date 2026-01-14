@@ -65,9 +65,18 @@ El logo del Proyecto Aurora representa un **Átomo**, símbolo de la ciencia, la
 ## **🚀 PILARES DEL PROYECTO**
 
 1. **EDUCACIÓN PRODUCTIVA:** Talleres prácticos que transforman el potencial humano en habilidades técnicas reales.
-2. **AUTOSOSTENIBILIDAD (EFECTO FREELANCE):** El compromiso de conectar el talento local con mercados globales, asegurando que el conocimiento sea el respaldo financiero de nuestra moneda.
-3. **INCLUSIÓN FINANCIERA:** Una plataforma de intercambio comercial que permite el consumo local seguro y sin devaluación.
-4. **TRANSPARENCIA:** Seguridad absoluta mediante contratos inteligentes y gobernanza compartida en el Cofre Multisig.
+
+---
+
+## 🎓 Formación y Capacitación
+El conocimiento es el núcleo del Proyecto Aurora. Hemos diseñado una ruta educativa integral para niños e instructores.
+
+👉 **[Haz clic aquí para ver el Plan de Estudios Completo y los Módulos de Capacitación](./CAPACITACION.md)**
+
+---
+3. **AUTOSOSTENIBILIDAD (EFECTO FREELANCE):** El compromiso de conectar el talento local con mercados globales, asegurando que el conocimiento sea el respaldo financiero de nuestra moneda.
+4. **INCLUSIÓN FINANCIERA:** Una plataforma de intercambio comercial que permite el consumo local seguro y sin devaluación.
+5. **TRANSPARENCIA:** Seguridad absoluta mediante contratos inteligentes y gobernanza compartida en el Cofre Multisig.
 
 
 ---
