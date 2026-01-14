@@ -76,7 +76,7 @@ El conocimiento es el núcleo del Proyecto Aurora. Hemos diseñado una ruta educ
 ---
 3. **AUTOSOSTENIBILIDAD (EFECTO FREELANCE):** El compromiso de conectar el talento local con mercados globales, asegurando que el conocimiento sea el respaldo financiero de nuestra moneda.
 
-4. 👉 **[Haz clic aquí para er nuestro sistema de de autosustentabilida](./portal-de-trabajo-profesional.md)**
+4. 👉 **[Haz clic aquí para er nuestro sistema de de autosustentabilidad](./portal-de-trabajo-profesional.md)**
 5. **INCLUSIÓN FINANCIERA:** Una plataforma de intercambio comercial que permite el consumo local seguro y sin devaluación.
 6. **TRANSPARENCIA:** Seguridad absoluta mediante contratos inteligentes y gobernanza compartida en el Cofre Multisig.
 
