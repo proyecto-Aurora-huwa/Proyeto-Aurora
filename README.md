@@ -68,7 +68,7 @@ El logo del Proyecto Aurora representa un **Átomo**, símbolo de la ciencia, la
 2. **AUTOSOSTENIBILIDAD (EFECTO FREELANCE):** El compromiso de conectar el talento local con mercados globales, asegurando que el conocimiento sea el respaldo financiero de nuestra moneda.
 3. **INCLUSIÓN FINANCIERA:** Una plataforma de intercambio comercial que permite el consumo local seguro y sin devaluación.
 4. **TRANSPARENCIA:** Seguridad absoluta mediante contratos inteligentes y gobernanza compartida en el Cofre Multisig.
-5.
+
 
 ---
 
@@ -192,6 +192,102 @@ Como pilar fundamental del aprendizaje en el Semillero Aurora, cada jornada de r
 * **Incentivo al Tutor:** **30 HW** mensuales por cada niño atendido (máximo de 12 a 15 niños por tutor para garantizar excelencia VIP).
 
 > *Nota: Al finalizar este ciclo, el niño no solo habrá creado tecnología, sino que habrá comprendido que su conocimiento es un activo valioso capaz de generar bienestar para su familia.*
+>
+># 🚀 Plan de Capacitación de Instructores: Introducción a la Programación Kids
+
+Este documento detalla el programa académico diseñado para formar a los instructores del **Proyecto Aurora**. El objetivo es capacitar a los tutores que guiarán a niños y mujeres en Venezuela en el uso de la tecnología, preparándolos para el ecosistema de la moneda **Huwa**.
+
+---
+
+## 📋 Información General
+
+* **Nombre del Programa:** Plan de Capacitación de Instructores – Introducción a la Programación Kids.
+*  (Robótica Educativa Venezuela).
+   
+* **Público Objetivo:** Adultos interesados en formarse como instructores del programa RobotEV.
+
+---
+
+## 🛠️ Requisitos Técnicos del Participante
+
+Para participar de manera efectiva, el instructor requiere:
+* Computador personal (PC o laptop).
+* Conexión a internet estable.
+* Memoria RAM mínima de 4GB.
+
+---
+
+## 📚 Estructura del Programa por Módulos
+
+### MÓDULO 1. Fundamentos de la Programación Kids – Nivel 1
+* **Duración:** 4 semanas (16 horas).
+* **Contenidos:**
+    * Introducción al pensamiento computacional.
+    * Programación visual por bloques.
+    * Secuencias y eventos.
+    * Uso educativo de plataformas de programación para niños.
+    * Estrategias didácticas para primeros acercamientos.
+* **Competencias a desarrollar:**
+    * Enseñar conceptos básicos de programación a niños.
+    * Guiar actividades prácticas de forma lúdica y estructurada.
+
+### MÓDULO 2. Programación Kids – Nivel 2
+* **Duración:** 3 semanas (12 horas).
+* **Contenidos:**
+    * Condicionales y bucles.
+    * Variables y lógica básica.
+    * Resolución de problemas mediante programación.
+    * Diseño de retos y proyectos intermedios.
+    * Evaluación formativa en programación kids.
+* **Competencias a desarrollar:**
+    * Acompañar el desarrollo del razonamiento lógico en niños.
+    * Diseñar y evaluar actividades de programación intermedia.
+
+### MÓDULO 3. Programación Kids – Nivel 3
+* **Duración:** 2 semanas (8 horas).
+* **Contenidos:**
+    * Estructuración de proyectos completos.
+    * Integración de lógica avanzada.
+    * Introducción al control de dispositivos virtuales.
+    * Metodologías para proyectos finales.
+* **Competencias a desarrollar:**
+    * Guiar proyectos de programación avanzada para niños.
+    * Fomentar la creatividad y autonomía del estudiante.
+
+### MÓDULO 4. Mecatrónica y Electrónica Básica con Simuladores
+* **Duración:** 2 semanas (8 horas).
+* **Contenidos:**
+    * Conceptos básicos de electrónica educativa.
+    * Componentes electrónicos fundamentales.
+    * Introducción a la mecatrónica aplicada a la educación.
+    * Uso de simuladores de circuitos y robótica.
+    * Integración de programación y electrónica virtual.
+* **Competencias a desarrollar:**
+    * Explicar conceptos básicos de electrónica a niños.
+    * Utilizar simuladores como recurso didáctico.
+
+### MÓDULO 5. Herramientas Pedagógicas y Digitales para la Enseñanza Online
+* **Duración:** 1 semana (4 horas).
+* **Contenidos:**
+    * Metodologías activas para educación en línea.
+    * Gestión de clases virtuales.
+    * Comunicación efectiva con niños en entornos digitales.
+    * Herramientas digitales educativas (aulas virtuales, recursos interactivos).
+    * Buenas prácticas en la enseñanza online.
+* **Competencias a desarrollar:**
+    * Planificar y ejecutar clases online efectivas.
+    * Manejar recursos digitales de apoyo educativo.
+
+---
+
+## 🏁 Evaluación del programa
+
+El proceso de certificación como instructor se basará en:
+* **Participación** en sesiones sincrónicas.
+* **Actividades prácticas** por cada módulo.
+* **Desarrollo de un proyecto final** de clase modelo.
+* **Evaluación pedagógica y técnica** integral.
+* 
 >
 > # 📢 Plan de Capacitación: Marketing Digital y Gestión de Meta
 **Enfoque:** Ejecución Profesional, Cumplimiento de Políticas y Generación de Valor Real.
