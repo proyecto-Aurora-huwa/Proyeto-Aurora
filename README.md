@@ -174,7 +174,13 @@ Para que esta "Materia Gris en Movimiento" sea sostenible, el Proyecto Aurora ha
 
 A continuación, se detalla la estructura presupuestaria que hace posible este amanecer tecnológico. Un modelo diseñado bajo estándares de transparencia, eficiencia e impacto real:
 
+### 🏦 Plan de Inversión Educativa
+> "Transformando el respaldo financiero en conocimiento real y progreso comunitario."
 
+Toda la **Ruta de Aprendizaje** y su ejecución por **Oleadas** descritas anteriormente cuentan con un diseño financiero sólido. Si logramos el respaldo de nuestra moneda, el despliegue de recursos se ejecutará bajo el siguiente esquema detallado:
+
+* [💰 **Consulta aquí el Plan de Inversión Educativa**](./presupuesto.md)
+  * *Detalle de incentivos para alumnos (Proof of Learning), honorarios de tutores y fondo de resguardo estratégico.*
 
 ---
 *Este proyecto es de código abierto y busca la colaboración de desarrolladores y educadores comprometidos con el desarrollo social.*
