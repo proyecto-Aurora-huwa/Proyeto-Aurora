@@ -36,3 +36,19 @@ A diferencia de los modelos publicitarios intrusivos, nuestra plataforma transfo
 * **🚀 Difusión Orgánica:** Nosotros gestionamos la creación y edición del contenido, asegurando que el mensaje de agradecimiento a los patrocinadores llegue con fuerza a través de nuestras redes sociales, aplicaciones y canales de difusión oficiales.
 
 **Cada anuncio pagado es una beca de conocimiento para un niño, y el mundo entero será testigo de quiénes están haciendo esto posible.**
+
+### 💳 3. Sistema de Micro-comisiones y Fondo de Resguardo
+> "Un motor financiero diseñado para la estabilidad y el crecimiento perpetuo del ecosistema."
+
+Este pilar garantiza que el **Proyecto Aurora** sea tecnológicamente independiente y cuente con un respaldo sólido en activos globales:
+
+* **⚙️ Sostenibilidad Técnica:** Se aplica una micro-comisión mínima en cada transacción comercial dentro de la red. Este pequeño flujo constante asegura que los servidores, la seguridad y el soporte técnico nunca se detengan.
+
+* **🤖 Automatización por Smart Contracts:** El cobro es 100% transparente y automático. El contrato inteligente gestiona los fondos de forma inmediata, eliminando la intervención humana y garantizando confianza total.
+
+* **🌐 Movilidad de Activos (Ethereum / Arbitrum):** * El **Fondo de Resguardo** se moviliza estratégicamente hacia redes como **Ethereum** o **Arbitrum**.
+    * Esto permite mantener la liquidez en activos de alto valor y aprovechar tecnologías de segunda capa para operaciones globales de bajo costo.
+
+* **📈 Capitalización de la Red:** Al mantener este **Fondo de Resguardo** en monedas de confianza mundial, el Proyecto Aurora fortalece el valor percibido de la moneda **Huwa** y se protege contra cualquier volatilidad del mercado.
+
+**✨ Cada transacción fortalece el Fondo de Resguardo que hace de Huwa una moneda sólida y confiable para todos.**
