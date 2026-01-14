@@ -71,7 +71,7 @@ El logo del Proyecto Aurora representa un **Átomo**, símbolo de la ciencia, la
 ## 🎓 Formación y Capacitación
 El conocimiento es el núcleo del Proyecto Aurora. Hemos diseñado una ruta educativa integral para niños e instructores.
 
-👉 **[Haz clic aquí para ver el Plan de Estudios Completo y los Módulos de Capacitación](./CAPACITACION.md)**
+👉 **[Haz clic aquí para ver el Plan de Estudios Completo y los Módulos de Capacitación](./plan-de-estudios.md)**
 
 ---
 3. **AUTOSOSTENIBILIDAD (EFECTO FREELANCE):** El compromiso de conectar el talento local con mercados globales, asegurando que el conocimiento sea el respaldo financiero de nuestra moneda.
