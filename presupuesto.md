@@ -14,7 +14,7 @@ A continuación, detallamos la estructura de incentivos para nuestros capacitado
 
 ## 📊 Presupuesto Maestro: Proyecto Aurora (Fase 1 - 6 Meses)
 
-Este presupuesto de **$41,200** garantiza la ejecución total del programa de formación, el mantenimiento del equipo operativo de alto nivel y la sostenibilidad técnica durante medio año de operaciones.
+Este presupuesto de **$55.000** garantiza la ejecución total del programa de formación, el mantenimiento del equipo operativo de alto nivel y la sostenibilidad técnica durante medio año de operaciones.
 
 ### 1. Inversión en Formación e Incentivos (Proof of Learning)
 Fondo destinado a respaldar el valor de la moneda **Huwa** generada por los participantes y el sostenimiento de la alianza pedagógica institucional.
@@ -22,8 +22,8 @@ Fondo destinado a respaldar el valor de la moneda **Huwa** generada por los part
 | Programa de Formación | Cupos | Duración / Módulos | Incentivo Alumno ($5 x módulo) | **Total Incentivo (Huwa)** | Pago Tutor (por participante) | **Total Pago Tutores** | **Alianza Academia Robótica Vzla** | **Total por Curso** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 🤖 **Semillero Kids** | 80 | 6 Meses (24 mod.) | $120 | **$9,600** | $30 | **$14.400** | $700 | **$24,700** |
-| 🤖 **Robótica Damas** | 30 | 6 Meses (24 mod.) | $120 | **$3,600** | $30 | **$2.700** | $300 | **$6.600** |
-| 📱 **Especializaciones*** | 200 | 3 Meses (6 mod.) | $30 | **$6,000** | $30 | **$6,000** | $0 | **$12,000** |
+| 🤖 **Robótica Damas** | 30 | 3 Meses (24 mod.) | $120 | **$3,600** | $30 | **$2.700** | $300 | **$6.600** |
+| 📱 **Especializaciones*** | 200 |  Meses (6 mod.) | $30 | **$6,000** | $30 | **$6,000** | $0 | **$12,000** |
 | **TOTALES** | **310** | | | **$19,200** | | **23,100** | **$1,000** | **$43,300** |
 
 *\*Incluye:Robotica kisd,robotica formando instrutoras, Marketing Digital, Diseño Gráfico, Edición de Video y Community Manager.*
@@ -49,7 +49,7 @@ Garantiza la supervisión, auditoría y seguridad del ecosistema durante todo el
 ---
 ### 3. Gestión de Reservas y Fondo de Contingencia (7.3% del Capital)
 
-Para garantizar la estabilidad del **Proyecto Aurora** y la moneda **Huwa**, se establece una estrategia de resguardo híbrida. Mientras que el **92.7% ($38,200)** permanece blindado en dólares estables (USDT/USDC) para nómina e incentivos, el **7.3% ($3,000)** se gestionará en Ethereum (ETH) bajo el siguiente desglose:
+Para garantizar la estabilidad del **Proyecto Aurora** y la moneda **Huwa**, se establece una estrategia de resguardo híbrida. Mientras que el **94.55% ($52.000)** permanece blindado en dólares estables (USDT/USDC) para nómina e incentivos, el **5.45% ($3,000)** se gestionará en Ethereum (ETH) bajo el siguiente desglose:
 
 | Sub-Concepto | Monto | Activo | Propósito Estratégico |
 | :--- | :--- | :--- | :--- |
@@ -59,28 +59,28 @@ Para garantizar la estabilidad del **Proyecto Aurora** y la moneda **Huwa**, se 
 #### Protocolo de Seguridad y Custodia
 * **Firma Fría (Cold Wallet):** Este fondo total de $3,000 estará resguardado Al ser un activo volátil con fines de resguardo y soporte, "se requerirá" la validación física de la Directora del proyeto para cualquier movimiento de esta cuenta.
 * **Inyección de Capital:** Se mantiene abierta la posibilidad de que inversionistas externos aporten exclusivamente a la sección de **Resguardo de Escalabilidad**, permitiendo que el proyecto crezca orgánicamente con el mercado sin arriesgar el capital operativo de formación.
-
 ---
-*Nota: Todo excedente generado por la revalorización del ETH en la sección de resguardo será auditado y destinado a la compra de infraestructura (Tablets/Equipos) para el semillero de aprendizaje en Venezuela.*
-
----
-
-### 📈 Resumen Consolidado de Inversión
-* **Incentivos y Formación:** $29,500
-* **Equipo Operativo:** $8,700
-* **Fondo de Contingencia:** $3,000
-* **INVERSIÓN TOTAL:** **$41,200*
 
 
 ### 3. ESTRUCTURA OPERATIVA Y BLINDAJE FINANCIERO
 
-Para garantizar que la visión del **Proyecto Aurora** sea sostenible, el presupuesto total de **$41,200** se gestiona bajo un sistema estricto que elimina la redundancia y maximiza la seguridad.
+Para garantizar que la visión del **Proyecto Aurora** sea sostenible, el presupuesto total de **$41,200** se gestiona bajo un sistema estricto que elimina la redundancia y ma### 📊 Resumen Consolidado de Inversión - Proyecto Aurora
+
+| Concepto de Inversión | Monto en USD |
+| :--- | :---: |
+| **Incentivos y Formación** | $43.300 |
+| **Equipo Operativo** | $8.700 |
+| **Fondo de Contingencia (Resguardo ETH)** | $3.000 |
+| **INVERSIÓN TOTAL** | **$55.000** |
+
+---
+
 
 #### A. Distribución Estratégica del Capital
 El capital se divide para asegurar que los compromisos con tutores y alumnos se cumplan sin importar la volatilidad del mercado:
 
-* **Fondo de Estabilidad (92.7% - $38,200):** Resguardado en dólares digitales (USDT/USDC). Este monto es intocable y garantiza 6 meses de nómina ($8,700) e incentivos de formación.
-* **Fondo de Operación y Resguardo (7.3% - $3,000):** Resguardado en Ethereum (ETH).
+* **Fondo de Estabilidad (94.55% - $53,000):** Resguardado en dólares digitales (USDT/USDC). Este monto es intocable de nómina  e incentivos de formación.
+* **Fondo de Operación y Resguardo (5.45% - $3,000):** Resguardado en Ethereum (ETH).
     * *$2,000:* Destinados a soporte operacional y comisiones de red (gas fees).
     * *$1,000:* **Resguardo de Oportunidad** para capitalizar el crecimiento del mercado.
 
@@ -104,7 +104,7 @@ La transparencia es el pilar de la moneda **Huwa**. Por ello, se establece un ú
 1. **Garantía de Paridad (1:1):** El Proyecto Aurora se compromete a que cada Huwa emitida tendrá un valor estable equivalente a 1 USD. Esta paridad es innegociable para garantizar el poder adquisitivo de los estudiantes y comerciantes.
 
 
-2. **Gestión de Reserva Dinámica (Ethereum):** El Proyecto Aurora mantendrá únicamente un máximo del 7% del fondo total (priorizando el Fondo de Contingencia y fondo de resguardo ) en Ethereum (ETH). 
+2. **Gestión de Reserva Dinámica (Ethereum):** El Proyecto Aurora mantendrá únicamente un máximo del 5.45% del fondo total (priorizando el Fondo de Contingencia y fondo de resguardo ) en Ethereum (ETH). 
    * **Uso de Excedentes:** Si el valor de este porcentaje en ETH aumenta, los excedentes se convertirán a moneda estable para fortalecer el "Fondo de Reinversión" de la Fase 3.
    * **Protección de Gastos:** Este fondo en ETH servirá principalmente para cubrir los costos operativos de gas (comisiones de red) y mantener una reserva de crecimiento moderado sin arriesgar el capital operativo crítico.
 
