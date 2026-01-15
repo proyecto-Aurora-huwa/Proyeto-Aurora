@@ -21,10 +21,10 @@ Fondo destinado a respaldar el valor de la moneda **Huwa** generada por los part
 
 | Programa de Formación | Cupos | Duración / Módulos | Incentivo Alumno ($5 x módulo) | **Total Incentivo (Huwa)** | Pago Tutor (por participante) | **Total Pago Tutores** | **Alianza Academia Robótica Vzla** | **Total por Curso** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 🤖 **Semillero Kids** | 80 | 6 Meses (24 mod.) | $120 | **$9,600** | $30 | **$2,400** | $700 | **$12,700** |
-| 🤖 **Robótica Damas** | 30 | 6 Meses (24 mod.) | $120 | **$3,600** | $30 | **$900** | $300 | **$4,800** |
+| 🤖 **Semillero Kids** | 80 | 6 Meses (24 mod.) | $120 | **$9,600** | $30 | **$14.400** | $700 | **$24,700** |
+| 🤖 **Robótica Damas** | 30 | 6 Meses (24 mod.) | $120 | **$3,600** | $30 | **$2.700** | $300 | **$6.600** |
 | 📱 **Especializaciones*** | 200 | 3 Meses (6 mod.) | $30 | **$6,000** | $30 | **$6,000** | $0 | **$12,000** |
-| **TOTALES** | **310** | | | **$19,200** | | **$9,300** | **$1,000** | **$29,500** |
+| **TOTALES** | **310** | | | **$19,200** | | **23,100** | **$1,000** | **$43,300** |
 
 *\*Incluye:Robotica kisd,robotica formando instrutoras, Marketing Digital, Diseño Gráfico, Edición de Video y Community Manager.*
 
