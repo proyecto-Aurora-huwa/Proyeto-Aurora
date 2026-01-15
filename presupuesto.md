@@ -47,7 +47,7 @@ Garantiza la supervisión, auditoría y seguridad del ecosistema durante todo el
 | **TOTAL OPERATIVO** | **4** | **$1,450** | **$8,700** | |
 
 ---
-### 3. Gestión de Reservas y Fondo de Contingencia (7.3% del Capital)
+### 3. Gestión de Reservas y Fondo de Contingencia (5.45% del Capital)
 
 Para garantizar la estabilidad del **Proyecto Aurora** y la moneda **Huwa**, se establece una estrategia de resguardo híbrida. Mientras que el **94.55% ($52.000)** permanece blindado en dólares estables (USDT/USDC) para nómina e incentivos, el **5.45% ($3,000)** se gestionará en Ethereum (ETH) bajo el siguiente desglose:
 
