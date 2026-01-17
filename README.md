@@ -28,8 +28,17 @@ La mujer Aurora es proactiva, luchadora y resiliente; es quien levanta el día e
 La mujer Aurora se pinta sus sueños de colores y frescura, demostrando que su grandeza no tiene límites cuando decide ser el motor de cambio de su comunidad.
 
 En este proyecto, Aurora no es solo tecnología; es ese amanecer humano que ocurre cuando una mujer decide aprender, emprender y brillar.
-
 ---
+
+> ### 📢 Declaración de Propósito y Necesidad
+> 
+> Mi objetivo principal es la **creación de Huwa (HW)**, una moneda digital con un fin profundamente social diseñada para transformar la educación en Venezuela. 
+>
+> Actualmente, el **Proyecto Aurora** cuenta con toda la **infraestructura técnica** (contratos inteligentes y protocolos de seguridad) y el modelo educativo listos para operar. Sin embargo, al no contar con capital propio, **requiero de un respaldo económico externo** que constituya el "Cofre de Reserva" inicial. 
+>
+> Este respaldo es la pieza final necesaria para que la moneda tenga valor real y el proyecto pueda encender sus motores en beneficio de la comunidad.
+
+------
 
 # **🌟 PROYECTO AURORA**
 Es una iniciativa de tecnología financiera (FinTech) centrada en la **Minería Educativa**. Nuestro objetivo es integrar el aprendizaje con la generación de activos digitales, permitiendo que el progreso académico sea el motor de una nueva economía.
