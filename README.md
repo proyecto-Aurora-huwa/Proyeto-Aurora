@@ -32,7 +32,7 @@ En este proyecto, Aurora no es solo tecnología; es ese amanecer humano que ocur
 
 > ### 📢 Declaración de Propósito y Necesidad
 > 
-> Mi objetivo principal es la **creación de Huwa (HW)**, una moneda digital con un fin profundamente social diseñada para transformar la educación en Venezuela. 
+> Mi objetivo principal es la **creación de Huwa (HW)**, una moneda digital con un fin profundamente social diseñada para transformar la educación en la capitalizaion de conocimiento en comunidades en desarrollo.
 >
 > Actualmente, el **Proyecto Aurora** cuenta con toda la **infraestructura técnica** (contratos inteligentes y protocolos de seguridad) y el modelo educativo listos para operar. Sin embargo, al no contar con capital propio, **requiero de un respaldo económico externo** que constituya el "Cofre de Reserva" inicial. 
 >
@@ -86,8 +86,14 @@ El conocimiento es el núcleo del Proyecto Aurora. Hemos diseñado una ruta educ
 3. **AUTOSOSTENIBILIDAD (EFECTO FREELANCE):** El compromiso de conectar el talento local con mercados globales, asegurando que el conocimiento sea el respaldo financiero de nuestra moneda.
 
 4. 👉 **[Haz clic aquí para er nuestro sistema de de autosustentabilidad](./portal-de-trabajo-profesional.md)**
-5. **INCLUSIÓN FINANCIERA:** Una plataforma de intercambio comercial que permite el consumo local seguro y sin devaluación.
-6. **TRANSPARENCIA:** Seguridad absoluta mediante contratos inteligentes y gobernanza compartida en el Cofre Multisig.
+
+5. * **MODELO DE AUTOSOSTENIBILIDAD:** Para asegurar que el Proyecto Aurora sea autosuficiente y perdure en el tiempo, hemos diseñado un protocolo operativo que detalla la economía circular de la moneda, el rol de los comercios aliados y la gestión administrativa 
+
+  👉 **[Ver Protocolo Operativo y Económico (Markdown)](./protocolo_Huwa.md)**
+
+  
+6. **INCLUSIÓN FINANCIERA:** Una plataforma de intercambio comercial que permite el consumo local seguro y sin devaluación.
+7. **TRANSPARENCIA:** Seguridad absoluta mediante contratos inteligentes y gobernanza compartida en el Cofre Multisig.
 
 
 ---
@@ -99,13 +105,13 @@ En esta fase inicial, el Proyecto Aurora establece los fundamentos técnicos y e
 ### **1. ESPECIFICACIONES DE DISEÑO Y SEGURIDAD**
 * **NATURALEZA ESTABLE:** Huwa está vinculada al valor del Dólar Americano ($1 USD), garantizando que el esfuerzo de aprendizaje mantenga su poder de compra sin importar la volatilidad externa.
 * **INFRAESTRUCTURA BLOCKCHAIN:** El núcleo tecnológico se desarrolla sobre la red de **Ethereum**, utilizando contratos inteligentes para automatizar la emisión de monedas basada estrictamente en méritos educativos verificados.
+
+** **INFRAESTRUCTURA BLOCKCHAIN:** El ecosistema de Huwa está construido sobre la red de Ethereum, garantizando transparencia y seguridad inalterable. La lógica de emisión, la paridad $1:1 y el fondo de resguardo del 1% están programados de forma autónoma [cite: 2025-12-28, 2025-12-30].
+
+  👉 **[Ver Código Fuente del Contrato Inteligente (Solidity)](./Token_Huwa.sol)**
+  
 * **SEGURIDAD Y CUSTODIA (COFRE MULTISIG):** El respaldo de la moneda se gestiona mediante una billetera de firma múltiple. Esto garantiza que el capital de reserva no dependa de una sola voluntad, sino de un sistema de llaves compartidas bajo los más altos estándares de seguridad blockchain.
 
-### **2. MODELO DE AUTOSOSTENIBILIDAD: EL MOTOR DE LA MONEDA**
-Para que Aurora sea un proyecto autosuficiente, hemos diseñado un modelo de economía circular:
-* **EFECTO FREELANCE (MONETIZACIÓN DEL TALENTO):** A medida que los usuarios completan sus módulos, el proyecto facilita su conexión con mercados globales. Una fracción de la actividad generada se reinvierte en el **Cofre de Respaldo**, logrando que el propio trabajo de la comunidad sustente la moneda.
-* **ALIANZAS ESTRATÉGICAS:** Los establecimientos aliados obtienen un flujo de clientes garantizado y herramientas de gestión digital, aportando dinamismo y liquidez al sistema a cambio de los beneficios de la red.
-* **CRECIMIENTO ESCALONADO:** La emisión de Huwas está estrictamente ligada al crecimiento del respaldo real, asegurando una paridad constante entre el conocimiento impartido y el valor digital generado.
 
 ---
 ## **🔄 EL CICLO HUWA: DEL CONOCIMIENTO AL INTERCAMBIO REAL**
@@ -128,43 +134,8 @@ El ecosistema opera mediante un flujo diseñado para empoderar a la familia, tra
 
 En el **Proyecto Aurora**, creemos fielmente que el conocimiento es la base de la liberación de las comunidades en desarrollo. Por ello, **queremos brindar** herramientas que permitan el desarrollo equilibrado de niños, adolescentes y damas, conectando el aprendizaje con oportunidades económicas reales.
 
-**Queremos dar inicio** a esta visión con una meta total de **280 cupos**, los cuales se activarán de manera progresiva mediante un sistema de **oleadas estratégicas**.
+**Queremos dar inicio** a esta visión con una meta total de **310 cupos**, los cuales se activarán de manera progresiva mediante un sistema de **oleadas estratégicas**.
 
-### 🔄 Dinámica de Ejecución por Oleadas
-Para garantizar la excelencia y evitar el colapso del sistema, cada oleada tendrá una pausa de un mes o mes y medio. Esto nos permitiría realizar ajustes técnicos y asegurar que cada grupo reciba atención de alta calidad.
-
-**Distribución de cupos por cada Oleada:**
-
-* **Semillero Kids (Niños):** 36 niños por oleada (Hasta completar los 80 proyectados).
-* **Capacitación para Damas:** 96 damas por oleada (Hasta completar los 200 proyectados).
-
-### 📋 Especialidades y Metodología
-La distribución de los **230 cupos para damas** se ha planificado según las áreas de mayor demanda en el mercado freelance. Para áreas técnicas críticas, iniciaremos con grupos controlados de **12 participantes** Por tutor, cada curso dispondrá de 2 a 3 tutores por oleadas para asegurar el dominio total de la herramienta:
-
-* **Curso de robótica para niños 80 cupos duracion 3 meses cada oleada:**
-* **Curso de robótica para damas (formadoras) 30 cupos duracion 3 meses cada oleada:**
-* **Community Manager:** 50 cupos..
-* **Marketing y Publicidad:** 50 cupos.
-* **Diseño Visual y Branding Comercial:** 50 cupos.
-* **Producción y Edición de Video de Alto Impacto:** 50 cupos.
-
-> **Nota de Seguridad:** Al trabajar con un máximo de **132 participantes activos por oleada** (36 niños y 96 damas), garantizamos que el flujo de verificación de evidencias y la emisión de la moneda **Huwa** sean procesos fluidos, seguros y totalmente auditables.
-
-# 🛣️ Ruta de Aprendizaje: Proyecto Aurora
-
-Una vez consolidado el respaldo de la moneda **Huwa**, se activará la siguiente ruta de aprendizaje, diseñada para transformar el conocimiento en un activo digital tangible:
-
--
-
-
-
-## 1. Nuestro Método: Las Oleadas de Aprendizaje
-
-Para garantizar una educación de excelencia, trabajamos con grupos pequeños y atención personalizada:
-
-* **Atención VIP:** Cada tutor tiene a su cargo una matrícula de máximo **de 12 a 15 niños**.
-* **Ciclos Trimestrales:** El aprendizaje se organiza por módulos intensivos de 3 meses, permitiendo que cada niño avance a su propio ritmo antes de dar paso a la siguiente oleada de estudiantes.
-* **Mente y Ciencia:** Cada jornada comienza con 5 minutos de meditación para enfocar la mente, seguida de módulos de lógica y ciencia aplicada.
 
 ## 2. Incentivo y Esfuerzo: La Moneda Huwa
 
