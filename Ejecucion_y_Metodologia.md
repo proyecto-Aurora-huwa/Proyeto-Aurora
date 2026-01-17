@@ -33,3 +33,7 @@ Para garantizar una educación de excelencia, trabajamos con grupos pequeños y 
 * **Atención VIP:** Cada tutor tiene a su cargo una matrícula de máximo **de 12 a 15 niños**.
 * **Ciclos Trimestrales:** El aprendizaje se organiza por módulos intensivos de 3 meses, permitiendo que cada niño avance a su propio ritmo antes de dar paso a la siguiente oleada de estudiantes.
 * **Mente y Ciencia:** Cada jornada comienza con 5 minutos de meditación para enfocar la mente, seguida de módulos de lógica y ciencia aplicada.
+
+### El Proyecto Aurora es el punto de encuentro entre la tecnología blockchain y el potencial humano. Aquí, el estudio  se transforman en bienestar, demostrando que en nuestras comunidades en desarrollo, el talento es el respaldo más sólido para una economía con propósito 
+
+**"Transformando el aprendizaje en libertad y el esfuerzo en valor."**
