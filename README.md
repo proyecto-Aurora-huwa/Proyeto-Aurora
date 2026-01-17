@@ -73,8 +73,8 @@ El logo del Proyecto Aurora representa un **Átomo**, símbolo de la ciencia, la
 
 ## **🚀 PILARES DEL PROYECTO**
 
-1. **EDUCACIÓN PRODUCTIVA:** Talleres prácticos que transforman el potencial humano en habilidades técnicas reales.
-
+* **EDUCACIÓN PRODUCTIVA:** Talleres prácticos que transforman el potencial humano en habilidades técnicas reales.
+  👉 **[Ver Dinámica de Ejecución, Metodología y Oleadas](./EJECUCION_Y_METODOLOGIA.md)**
 ---
 
 ## 🎓 Formación y Capacitación
@@ -106,7 +106,7 @@ En esta fase inicial, el Proyecto Aurora establece los fundamentos técnicos y e
 * **NATURALEZA ESTABLE:** Huwa está vinculada al valor del Dólar Americano ($1 USD), garantizando que el esfuerzo de aprendizaje mantenga su poder de compra sin importar la volatilidad externa.
 * **INFRAESTRUCTURA BLOCKCHAIN:** El núcleo tecnológico se desarrolla sobre la red de **Ethereum**, utilizando contratos inteligentes para automatizar la emisión de monedas basada estrictamente en méritos educativos verificados.
 
-** **INFRAESTRUCTURA BLOCKCHAIN:** El ecosistema de Huwa está construido sobre la red de Ethereum, garantizando transparencia y seguridad inalterable. La lógica de emisión, la paridad $1:1 y el fondo de resguardo del 1% están programados de forma autónoma [cite: 2025-12-28, 2025-12-30].
+** **INFRAESTRUCTURA BLOCKCHAIN:** El ecosistema de Huwa está construido sobre la red de Ethereum, garantizando transparencia y seguridad inalterable. La lógica de emisión, la paridad $1:1 y el fondo de resguardo del 1% están programados de forma autónoma 
 
   👉 **[Ver Código Fuente del Contrato Inteligente (Solidity)](./Token_Huwa.sol)**
   
@@ -161,6 +161,12 @@ Toda la **Ruta de Aprendizaje** y su ejecución por **Oleadas** descritas anteri
 
 * [💰 **Consulta aquí el Plan de Inversión Educativa**](./presupuesto.md)
   * *Detalle de incentivos para alumnos (Proof of Learning), honorarios de tutores y fondo de resguardo estratégico.*
+ 
+ ---
+
+### ✨ Una Visión con Propósito
+
+> "Creo fielmente que el conocimiento aunado a la tecnología permite que las comunidades en desarrollo tracen su propio camino de autonomía y liberación. El **Proyecto Aurora** es nuestra respuesta a esa creencia: un ecosistema donde el saber se convierte en el motor de una nueva realidad."  
 
 ---
 *Este proyecto es de código abierto y busca la colaboración de desarrolladores y educadores comprometidos con el desarrollo social.*
