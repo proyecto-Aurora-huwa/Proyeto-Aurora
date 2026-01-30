@@ -25,7 +25,7 @@ Es el pulso que anima a los pájaros a cantar y la caricia que despierta a cada 
 
 La mujer Aurora es proactiva, luchadora y resiliente; es quien levanta el día en cada hogar, nutriendo sueños y preparando el camino para las nuevas generaciones. Este proyecto nace para honrar esa grandeza, convirtiendo el aprendizaje en la semilla de una nueva economía.
 
-La mujer Aurora se pinta sus sueños de colores y frescura, demostrando que su grandeza no tiene límites cuando decide ser el motor de cambio de su comunidad.
+La mujer Aurora  pinta sus sueños de colores y frescura, demostrando que su grandeza no tiene límites cuando decide ser el motor de cambio de su comunidad.
 
 En este proyecto, Aurora no es solo tecnología; es ese amanecer humano que ocurre cuando una mujer decide aprender, emprender y brillar.
 ---
@@ -85,7 +85,7 @@ El conocimiento es el núcleo del Proyecto Aurora. Hemos diseñado una ruta educ
 ---
 3. **AUTOSOSTENIBILIDAD (EFECTO FREELANCE):** El compromiso de conectar el talento local con mercados globales, asegurando que el conocimiento sea el respaldo financiero de nuestra moneda.
 
-4. 👉 **[Haz clic aquí para er nuestro sistema de de autosustentabilidad](./portal-de-trabajo-profesional.md)**
+4. 👉 **[Haz clic aquí para ver nuestro sistema de de autosustentabilidad](./portal-de-trabajo-profesional.md)**
 
 5. * **MODELO DE AUTOSOSTENIBILIDAD:** Para asegurar que el Proyecto Aurora sea autosuficiente y perdure en el tiempo, hemos diseñado un protocolo operativo que detalla la economía circular de la moneda, el rol de los comercios aliados y la gestión administrativa 
 
@@ -104,9 +104,9 @@ En esta fase inicial, el Proyecto Aurora establece los fundamentos técnicos y e
 
 ### **1. ESPECIFICACIONES DE DISEÑO Y SEGURIDAD**
 * **NATURALEZA ESTABLE:** Huwa está vinculada al valor del Dólar Americano ($1 USD), garantizando que el esfuerzo de aprendizaje mantenga su poder de compra sin importar la volatilidad externa.
-* **INFRAESTRUCTURA BLOCKCHAIN:** El núcleo tecnológico se desarrolla sobre la red de **Ethereum**, utilizando contratos inteligentes para automatizar la emisión de monedas basada estrictamente en méritos educativos verificados.
+* **INFRAESTRUCTURA BLOCKCHAIN:** El núcleo tecnológico se desarrolla sobre la red de**Arbitrum**, garantizando transacciones ultraeconómicas bajo la seguridad robusta de la red de **Ethereum**. utilizando contratos inteligentes para automatizar la emisión de monedas basada estrictamente en méritos educativos verificados.
 
-** **INFRAESTRUCTURA BLOCKCHAIN:** El ecosistema de Huwa está construido sobre la red de Ethereum, garantizando transparencia y seguridad inalterable. La lógica de emisión, la paridad $1:1 y el fondo de resguardo del 1% están programados de forma autónoma 
+** **INFRAESTRUCTURA BLOCKCHAIN:** El ecosistema de Huwa está construido sobre la red de**Arbitrum** , garantizando transparencia y seguridad inalterable. La lógica de emisión, la paridad $1:1 y el fondo de resguardo del 1% están programados de forma autónoma 
 
   👉 **[Ver Código Fuente del Contrato Inteligente (Solidity)](./Token_Huwa.sol)**
   
@@ -141,14 +141,14 @@ En el **Proyecto Aurora**, creemos fielmente que el conocimiento es la base de l
 
 En Aurora, el conocimiento tiene valor. Los niños "minan" su propia recompensa a través del sistema de **Minería por Evidencia**.
 
-1.  Al completar un experimento o un reto lógico, el estudiante (con el apoyo de su representante) carga la prueba de su logro en nuestra plataforma.
+1.  Al tutor validar que el niño aprobó el módulo, el niñ completara un experimento o un reto lógico en la platafora, el estudiante (con el apoyo de su representante) carga logro en nuestra plataforma.
 2.  Una vez validada la evidencia, se libera un incentivo en nuestra moneda estable **Huwa**, permitiendo que las familias vean el fruto directo del esfuerzo educativo.
 
 ---
 
 ### 🚀 De la Visión a la Acción: El Respaldo de la Excelencia
 
-El conocimiento solo se convierte en libertad cuando tiene la estructura necesaria para sostenerse. Los planes de estudio anteriores no son solo guías académicas; son el compromiso de **280 personas** que han decidido transformar su realidad y ser el motor de cambio de su comunidad.
+El conocimiento solo se convierte en libertad cuando tiene la estructura necesaria para sostenerse. Los planes de estudio anteriores no son solo guías académicas; son el compromiso que asumiremos con **310 personas** que van transformar su realidad y ser el motor de cambio de su comunidad.
 
 Para que esta "Materia Gris en Movimiento" sea sostenible, el Proyecto Aurora ha blindado su arquitectura financiera. Cada centavo invertido tiene un propósito doble: **honrar la maestría** de nuestros tutores mediante un pago justo y **recompensar el esfuerzo** de nuestros estudiantes a través de la minería por evidencia.
 
